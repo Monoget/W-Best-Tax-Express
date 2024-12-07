@@ -1,12 +1,4 @@
 /*=====================================================
-Template Name   : Taxrio
-Description     : Tax Advisor & Consulting HTML5 Template
-Author          : Lunartemp
-Version         : 1.0
-=======================================================*/
-
-
-/*=====================================================
 Table of contents
 =======================================================
 1. Google fonts
@@ -1252,7 +1244,7 @@ label {
   .navbar {
     position: absolute;
     width: 100%;
-    height: auto;
+    height: 4rem;
   }
 
   .navbar-brand img {
