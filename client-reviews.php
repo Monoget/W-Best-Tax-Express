@@ -28,118 +28,135 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Testimonials</h2>
             <ul class="breadcrumb-menu">
-                <li><a href="index.php">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li><a href="home">Home</a></li>
+                <li class="active">Testimonials</li>
             </ul>
         </div>
     </div>
     <!-- breadcrumb end -->
 
 
-    <!-- case-study single -->
-    <div class="case-single py-120">
+    <!-- testimonial-area -->
+    <div class="testimonial-area bg py-120">
         <div class="container">
-            <div class="case-single-wrapper">
-                <div class="row">
-                    <div class="col-xl-4 col-lg-4">
-                        <div class="case-sidebar">
-                            <div class="widget case-sidebar-content">
-                                <h4 class="case-sidebar-title">What We Do</h4>
-                                <ul>
-                                    <li>
-                                        TAX
-                                    </li>
-                                    <li>
-                                        BOOKKEEPING
-                                    </li>
-                                    <li>
-                                        PART-TIME CFO
-                                    </li>
-                                    <li>
-                                        FINANCIAL PLANNING
-                                    </li>
-                                    <li>
-                                        AUDIT-REVIEW-COMPILATION
-                                    </li>
-                                    <li>
-                                        CASH FLOW MANAGEMENT
-                                    </li>
-                                    <li>
-                                        BANK FINANCING
-                                    </li>
-                                </ul>
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="site-heading wow fadeInDown" data-wow-delay=".25s">
+                        <span class="site-title-tagline light"><i class="fas fa-percent"></i> Testimonials</span>
+                        <h2 class="site-title">What Our Client <span>Say's</span> about us</h2>
+                        <p>
+                            It is a long established fact that a reader will be distracted by the readable content
+                            of a page when looking at its layout. All the generators on the Internet tend to repeat
+                            predefined chunks.
+                        </p>
+                        <a class="theme-btn mt-30" href="#">Know More <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="testimonial-slider owl-carousel owl-theme wow fadeInUp" data-wow-delay=".25s">
+                        <div class="testimonial-item">
+                            <div class="testimonial-quote">
+                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
+                                <p>
+                                    There are many variations of passages of Lorem Ipsum available, but the majority
+                                    have
+                                    suffered alteration in some form, by injected humour.
+                                </p>
+                            </div>
+                            <div class="testimonial-content">
+                                <div class="testimonial-author-img">
+                                    <img alt="" src="assets/img/testimonial/01.jpg">
+                                </div>
+                                <div class="testimonial-author-info">
+                                    <h4>Niesha Phips</h4>
+                                    <p>Customer</p>
+                                    <div class="testimonial-rate">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-xl-8 col-lg-8">
-                        <div class="case-details">
-                            <div class="case-details-img mb-30">
-                                <img alt="thumb" src="assets/img/case/single.jpg">
+                        <div class="testimonial-item">
+                            <div class="testimonial-quote">
+                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
+                                <p>
+                                    There are many variations of passages of Lorem Ipsum available, but the majority
+                                    have
+                                    suffered alteration in some form, by injected humour.
+                                </p>
                             </div>
-                            <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
-                                <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
-                                </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
-                                <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
-                                </p>
-                                <div class="row">
-                                    <div class="col-md-6 mb-20">
-                                        <img alt="" src="assets/img/case/01.jpg">
-                                    </div>
-                                    <div class="col-md-6 mb-20">
-                                        <img alt="" src="assets/img/case/02.jpg">
+                            <div class="testimonial-content">
+                                <div class="testimonial-author-img">
+                                    <img alt="" src="assets/img/testimonial/02.jpg">
+                                </div>
+                                <div class="testimonial-author-info">
+                                    <h4>Daniel Porter</h4>
+                                    <p>Customer</p>
+                                    <div class="testimonial-rate">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
-                                <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
+                            </div>
+                        </div>
+                        <div class="testimonial-item">
+                            <div class="testimonial-quote">
+                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
+                                <p>
+                                    There are many variations of passages of Lorem Ipsum available, but the majority
+                                    have
+                                    suffered alteration in some form, by injected humour.
                                 </p>
-                                <div class="my-4">
-                                    <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
-                                        <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
-                                        </p>
+                            </div>
+                            <div class="testimonial-content">
+                                <div class="testimonial-author-img">
+                                    <img alt="" src="assets/img/testimonial/03.jpg">
+                                </div>
+                                <div class="testimonial-author-info">
+                                    <h4>Ebony Swihart</h4>
+                                    <p>Customer</p>
+                                    <div class="testimonial-rate">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
                                     </div>
                                 </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
+                            </div>
+                        </div>
+                        <div class="testimonial-item">
+                            <div class="testimonial-quote">
+                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
+                                <p>
+                                    There are many variations of passages of Lorem Ipsum available, but the majority
+                                    have
+                                    suffered alteration in some form, by injected humour.
+                                </p>
+                            </div>
+                            <div class="testimonial-content">
+                                <div class="testimonial-author-img">
+                                    <img alt="" src="assets/img/testimonial/04.jpg">
                                 </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
+                                <div class="testimonial-author-info">
+                                    <h4>Loreta Jones</h4>
+                                    <p>Customer</p>
+                                    <div class="testimonial-rate">
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                        <i class="fas fa-star"></i>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -148,8 +165,10 @@
             </div>
         </div>
     </div>
-    <!-- case-study single end -->
+    <!-- testimonial-area end -->
+
 </main>
+
 
 <?php include 'include/footer.php'; ?>
 

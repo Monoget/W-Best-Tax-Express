@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Accounting Services - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Accounting Services</h2>
             <ul class="breadcrumb-menu">
-                <li><a href="index.php">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li><a href="home">Home</a></li>
+                <li class="active">Accounting Services</li>
             </ul>
         </div>
     </div>
@@ -140,6 +140,34 @@
                                         peace of mind. Our firm also offers tax preparation services, including business
                                         tax prep and personal tax prep.
                                     </p>
+                                </div>
+                                <div class="my-4">
+                                    <div class="mb-3">
+                                        <h3 class="mb-3">Project Tips</h3>
+                                        <p>Aliquam facilisis rhoncus nunc, non vestibulum mauris volutpat non.
+                                            Vivamus tincidunt accumsan urna, vel aliquet nunc commodo tristique.
+                                            Nulla facilisi. Phasellus vel ex nulla. Nunc tristique sapien id mauris
+                                            efficitur, porta scelerisque nisl dignissim. Vestibulum ante ipsum
+                                            primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed at
+                                            mollis tellus. Proin consequat, orci nec bibendum viverra, ante orci
+                                            suscipit dolor, et condimentum felis dolor ac lectus.</p>
+                                    </div>
+                                    <ul class="case-single-list">
+                                        <li><i class="far fa-check"></i>Fusce justo risus placerat in risus eget
+                                            tincidunt consequat elit.
+                                        </li>
+                                        <li><i class="far fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
+                                            placerat.
+                                        </li>
+                                        <li><i class="far fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
+                                        </li>
+                                        <li><i class="far fa-check"></i>Integer quis lorem est uspendisse eu augue
+                                            porta ullamcorper dictum.
+                                        </li>
+                                        <li><i class="far fa-check"></i>Quisque tristique neque arcu ut venenatis
+                                            felis malesuada et.
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
