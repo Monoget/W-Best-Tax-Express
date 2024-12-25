@@ -1089,7 +1089,6 @@ label {
     border-radius: 15px;
     border: none;
     background: var(--color-dark);
-    width: 220px;
     box-shadow: var(--box-shadow);
     opacity: 0;
     visibility: hidden;

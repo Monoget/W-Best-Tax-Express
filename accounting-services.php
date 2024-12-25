@@ -79,18 +79,16 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
+                                <h3 class="mb-20">Bookkeeping</h3>
                                 <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
+                                    Accurate bookkeeping is essential to your company’s long-term viability.
+                                    Experienced, affordable, and reliable, we serve a variety of industries and clients
+                                    from self-employed home-based business owners to small and medium-sized businesses
+                                    with employees
                                 </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
+                                <h3 class="mb-3">Cash Flow Management</h3>
                                 <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
+                                    Managing cash flow is the key to operating a successful business.
                                 </p>
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
@@ -100,72 +98,58 @@
                                         <img alt="" src="assets/img/case/02.jpg">
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
+                                <h3 class="mb-3">Part Time CFO</h3>
                                 <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
+                                    Businesses of all sizes benefit from hiring a Chief Financial Officer (CFO) or
+                                    Controller. However, many small business owners worry that they cannot afford this
+                                    service. Fortunately, there is a cost-effective solution: Part Time CFO services.
                                 </p>
                                 <div class="my-4">
                                     <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
+                                        <h3 class="mb-3">Audits, Reviews, and Compilations</h3>
                                         <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
+                                            Stockholders, creditors, and private investors often need assurance that the
+                                            financial statements accurately represent the true financial position of a
+                                            company.
+
+
+                                            Your stockholders, creditors, or private investors have different levels of
+                                            risk tolerance, so we provide three levels of assurance to meet your needs.
                                         </p>
                                     </div>
                                 </div>
                                 <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
+                                    <h3 class="mb-3">Business Loan Assistance</h3>
                                     <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
+                                        We assist in securing loans and other funding from banks and other funders.
                                     </p>
                                 </div>
                                 <div class="my-4">
                                     <div class="mb-3">
-                                        <h3 class="mb-3">Project Tips</h3>
-                                        <p>Aliquam facilisis rhoncus nunc, non vestibulum mauris volutpat non.
-                                            Vivamus tincidunt accumsan urna, vel aliquet nunc commodo tristique.
-                                            Nulla facilisi. Phasellus vel ex nulla. Nunc tristique sapien id mauris
-                                            efficitur, porta scelerisque nisl dignissim. Vestibulum ante ipsum
-                                            primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed at
-                                            mollis tellus. Proin consequat, orci nec bibendum viverra, ante orci
-                                            suscipit dolor, et condimentum felis dolor ac lectus.</p>
+                                        <h3 class="mb-3">Additional Accounting Services</h3>
+                                        <p>Call 646-718-5912 to learn more about the following Business Accounting
+                                            Services:</p>
                                     </div>
+                                    <h3 class="mb-3">Support:</h3>
                                     <ul class="case-single-list">
-                                        <li><i class="far fa-check"></i>Fusce justo risus placerat in risus eget
-                                            tincidunt consequat elit.
+                                        <li><i class="far fa-check"></i>Retroactive Bookkeeping
                                         </li>
-                                        <li><i class="far fa-check"></i>Nunc fermentum sem sit amet dolor laoreet
-                                            placerat.
+                                        <li><i class="far fa-check"></i>Bookkeeping Cleanup
                                         </li>
-                                        <li><i class="far fa-check"></i>Nullam rhoncus dictum diam quis ultrices.
+                                        <li><i class="far fa-check"></i>Payroll Support
                                         </li>
-                                        <li><i class="far fa-check"></i>Integer quis lorem est uspendisse eu augue
-                                            porta ullamcorper dictum.
+                                        <li><i class="far fa-check"></i>Application Integration (App Integration)
                                         </li>
-                                        <li><i class="far fa-check"></i>Quisque tristique neque arcu ut venenatis
-                                            felis malesuada et.
+                                    </ul>
+                                    <h3 class="mb-3">Advisory:</h3>
+                                    <ul class="case-single-list">
+                                        <li><i class="far fa-check"></i>Accounting Diagnostics
+                                        </li>
+                                        <li><i class="far fa-check"></i>Budgeting and Forecasting
+                                        </li>
+                                        <li><i class="far fa-check"></i>Process Improvements
+                                        </li>
+                                        <li><i class="far fa-check"></i>Application Advisory (App Advisory)
                                         </li>
                                     </ul>
                                 </div>
