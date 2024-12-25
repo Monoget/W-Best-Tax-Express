@@ -59,7 +59,7 @@
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">What We Do</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="tax.html">TAX</a></li>
+                                <li><a class="dropdown-item" href="tax.php">TAX</a></li>
                                 <li><a class="dropdown-item" href="#">BOOKKEEPING</a></li>
                                 <li><a class="dropdown-item" href="#">PART-TIME CFO</a></li>
                                 <li><a class="dropdown-item" href="#">FINANCIAL PLANNING</a></li>
@@ -106,7 +106,7 @@
                         </li>
                         <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
                         <li class="nav-item"><a class="nav-link" href="#">Client Portal</a></li>
-                        <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
