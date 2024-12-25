@@ -1,0 +1,67 @@
+RewriteEngine on
+
+RewriteRule ^home index.php [NC,L]
+
+RewriteRule ^tax-services tax-services.php [NC,L]
+
+RewriteRule ^accounting-services accounting-services.php [NC,L]
+
+RewriteRule ^bookkeeping bookkeeping.php [NC,L]
+
+RewriteRule ^new-business-startup new-business-startup.php [NC,L]
+
+RewriteRule ^audit-review-compilation audit-review-compilation.php [NC,L]
+
+RewriteRule ^financial-planning financial-planning.php [NC,L]
+
+RewriteRule ^part-time-cfo part-time-cfo.php [NC,L]
+
+RewriteRule ^cash-flow-management cash-flow-management.php [NC,L]
+
+RewriteRule ^bank-loan-assistance bank-loan-assistance.php [NC,L]
+
+RewriteRule ^individuals individuals.php [NC,L]
+
+RewriteRule ^e-commerce e-commerce.php [NC,L]
+
+RewriteRule ^franchise-businesses franchise-businesses.php [NC,L]
+
+RewriteRule ^restaurant-hospitality restaurant-hospitality.php [NC,L]
+
+RewriteRule ^sports-and-entertainment sports-and-entertainment.php [NC,L]
+
+RewriteRule ^digital-assets digital-assets.php [NC,L]
+
+RewriteRule ^retail-wholesale retail-wholesale.php [NC,L]
+
+RewriteRule ^real-estate real-estate.php [NC,L]
+
+RewriteRule ^cannabis cannabis.php [NC,L]
+
+RewriteRule ^healthcare healthcare.php [NC,L]
+
+RewriteRule ^law-firms law-firms.php [NC,L]
+
+RewriteRule ^501-c-3-nonprofits 501-c-3-nonprofits.php [NC,L]
+
+RewriteRule ^about-us about-us.php [NC,L]
+
+RewriteRule ^why-choose-a-cpa why-choose-a-cpa.php [NC,L]
+
+RewriteRule ^client-reviews client-reviews.php [NC,L]
+
+RewriteRule ^make-a-payment make-a-payment.php [NC,L]
+
+RewriteRule ^tax-preparation-checklist tax-preparation-checklist.php [NC,L]
+
+RewriteRule ^refund-tracking refund-tracking.php [NC,L]
+
+RewriteRule ^pricing pricing.php [NC,L]
+
+RewriteRule ^contact contact.php [NC,L]
+
+RewriteRule ^error error.php [NC,L]
+
+RewriteRule ^coming-soon coming-soon.php [NC,L]
+
+RewriteRule ^insert insert.php [NC,L]

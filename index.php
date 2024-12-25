@@ -14,14 +14,7 @@
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
 
-    <!-- css -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/css/all-fontawesome.min.css" rel="stylesheet">
-    <link href="assets/css/animate.min.css" rel="stylesheet">
-    <link href="assets/css/magnific-popup.min.css" rel="stylesheet">
-    <link href="assets/css/owl.carousel.min.css" rel="stylesheet">
-    <link href="assets/css/nice-select.min.css" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <?php include 'include/css.php'; ?>
 
 </head>
 
@@ -43,7 +36,7 @@
     <div class="main-navigation">
         <nav class="navbar navbar-expand-lg">
             <div class="container position-relative">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="home">
                     <img alt="logo" class="logo-display" src="assets/img/logo/logo-custom-light.png">
                     <img alt="logo" class="logo-scrolled" src="assets/img/logo/logo-custom-dark.png">
                 </a>
@@ -55,58 +48,59 @@
                 </div>
                 <div class="collapse navbar-collapse" id="main_nav">
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link active" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="home">Home</a></li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">What We Do</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="tax.php">TAX</a></li>
-                                <li><a class="dropdown-item" href="#">BOOKKEEPING</a></li>
-                                <li><a class="dropdown-item" href="#">PART-TIME CFO</a></li>
-                                <li><a class="dropdown-item" href="#">FINANCIAL PLANNING</a></li>
-                                <li><a class="dropdown-item" href="#">AUDIT-REVIEW-COMPILATION</a></li>
-                                <li><a class="dropdown-item" href="#">CASH FLOW MANAGEMENT</a></li>
-                                <li><a class="dropdown-item" href="#">BANK FINANCING</a></li>
+                                <li><a class="dropdown-item" href="tax-services">TAX</a></li>
+                                <li><a class="dropdown-item" href="accounting-services">ACCOUNTING SERVICES</a></li>
+                                <li><a class="dropdown-item" href="bookkeeping">BOOKKEEPING</a></li>
+                                <li><a class="dropdown-item" href="new-business-startup">NEW BUSINESS STARTUP</a></li>
+                                <li><a class="dropdown-item" href="audit-review-compilation">AUDIT-REVIEW-COMPILATION</a></li>
+                                <li><a class="dropdown-item" href="financial-planning">FINANCIAL PLANNING</a></li>
+                                <li><a class="dropdown-item" href="part-time-cfo">PART-TIME CFO</a></li>
+                                <li><a class="dropdown-item" href="cash-flow-management">CASH FLOW MANAGEMENT</a></li>
+                                <li><a class="dropdown-item" href="bank-loan-assistance">BANK LOAN ASSISTANCE</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">We Serve</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="#">Individuals</a></li>
-                                <li><a class="dropdown-item" href="#">E-Commerce</a></li>
-                                <li><a class="dropdown-item" href="#">Franchise Businesses</a></li>
-                                <li><a class="dropdown-item" href="#">Restaurant/Hospitality</a></li>
-                                <li><a class="dropdown-item" href="#">Sports and Entertainment</a></li>
-                                <li><a class="dropdown-item" href="#">Digital Assets</a></li>
-                                <li><a class="dropdown-item" href="#">Retail/Wholesale</a></li>
-                                <li><a class="dropdown-item" href="#">Real Estate</a></li>
-                                <li><a class="dropdown-item" href="#">Cannabis</a></li>
-                                <li><a class="dropdown-item" href="#">Healthcare</a></li>
-                                <li><a class="dropdown-item" href="#">Law Firms</a></li>
-                                <li><a class="dropdown-item" href="#">501 (c) (3) Nonprofits</a></li>
+                                <li><a class="dropdown-item" href="individuals">Individuals</a></li>
+                                <li><a class="dropdown-item" href="e-commerce">E-Commerce</a></li>
+                                <li><a class="dropdown-item" href="franchise-businesses">Franchise Businesses</a></li>
+                                <li><a class="dropdown-item" href="restaurant-hospitality">Restaurant/Hospitality</a></li>
+                                <li><a class="dropdown-item" href="sports-and-entertainment">Sports and Entertainment</a></li>
+                                <li><a class="dropdown-item" href="digital-assets">Digital Assets</a></li>
+                                <li><a class="dropdown-item" href="retail-wholesale">Retail/Wholesale</a></li>
+                                <li><a class="dropdown-item" href="real-estate">Real Estate</a></li>
+                                <li><a class="dropdown-item" href="cannabis">Cannabis</a></li>
+                                <li><a class="dropdown-item" href="healthcare">Healthcare</a></li>
+                                <li><a class="dropdown-item" href="law-firms">Law Firms</a></li>
+                                <li><a class="dropdown-item" href="501-c-3-nonprofits">501 (c) (3) Nonprofits</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">About</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="#">About Us</a></li>
-                                <li><a class="dropdown-item" href="#">Why Choose A CPA?</a></li>
-                                <li><a class="dropdown-item" href="#">Client Reviews</a></li>
+                                <li><a class="dropdown-item" href="about-us">About Us</a></li>
+                                <li><a class="dropdown-item" href="why-choose-a-cpa">Why Choose A CPA?</a></li>
+                                <li><a class="dropdown-item" href="client-reviews">Client Reviews</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Client Center</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="#">MAKE A PAYMENT</a></li>
-                                <li><a class="dropdown-item" href="#">Tax Preparation Checklist</a></li>
-                                <li><a class="dropdown-item" href="#">Refund Tracking</a></li>
-                                <li><a class="dropdown-item" href="#">Financial Calculator</a></li>
-                                <li><a class="dropdown-item" href="#">Tax Withholding Estimator</a></li>
-                                <li><a class="dropdown-item" href="#">FEMA</a></li>
+                                <li><a class="dropdown-item" href="make-a-payment">MAKE A PAYMENT</a></li>
+                                <li><a class="dropdown-item" href="tax-preparation-checklist">Tax Preparation Checklist</a></li>
+                                <li><a class="dropdown-item" href="refund-tracking">Refund Tracking</a></li>
+                                <li><a class="dropdown-item" href="https://www.bankrate.com/calculators/">Financial Calculator</a></li>
+                                <li><a class="dropdown-item" href="https://apps.irs.gov/app/tax-withholding-estimator">Tax Withholding Estimator</a></li>
+                                <li><a class="dropdown-item" href="https://www.fema.gov/">FEMA</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="#">Pricing</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Client Portal</a></li>
-                        <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link" href="pricing">Pricing</a></li>
+                        <li class="nav-item"><a class="nav-link active" href="contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
@@ -1051,144 +1045,10 @@
 </main>
 
 
-<!-- footer area -->
-<footer class="footer-area footer-bg">
-    <div class="footer-widget">
-        <div class="container">
-            <div class="footer-widget-wrap pt-100 pb-70">
-                <div class="row g-5">
-                    <div class="col-md-6 col-lg-5">
-                        <div class="footer-widget-box about-us">
-                            <a class="footer-logo" href="#">
-                                <img alt="" src="assets/img/logo/logo-custom-light.png">
-                            </a>
-                            <p class="mb-4">
-                                We provide comprehensive tax and financial services tailored to meet your needs, ensuring a hassle-free experience with guaranteed quality and accuracy.
-                            </p>
-                            <div class="footer-newsletter">
-                                <h6>Subscribe Our Newsletter</h6>
-                                <div class="subscribe-form">
-                                    <form action="#">
-                                        <div class="form-group">
-                                            <input class="form-control" placeholder="Your Email" type="email">
-                                            <button class="theme-btn" type="submit">
-                                                Subscribe <i class="far fa-paper-plane"></i>
-                                            </button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-2">
-                        <div class="footer-widget-box list">
-                            <h4 class="footer-widget-title">Tax Services</h4>
-                            <ul class="footer-list">
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Tax Planning</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Tax Preparation</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>FBAR Reporting</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Sales & Use Taxes</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>BOI Report Filing</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>FEMA Assistance</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Refund Tracking</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-2">
-                        <div class="footer-widget-box list">
-                            <h4 class="footer-widget-title">Industry Serv.</h4>
-                            <ul class="footer-list">
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Individuals</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Franchise Businesses</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Hospitality Industry</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Real Estate</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Healthcare</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>501(c)(3) Nonprofits</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-lg-3">
-                        <div class="footer-widget-box">
-                            <h4 class="footer-widget-title">Get In Touch</h4>
-                            <ul class="footer-contact">
-                                <li>
-                                    <div class="icon">
-                                        <i class="far fa-location-dot"></i>
-                                    </div>
-                                    <div class="content">
-                                        <h6>Our Address</h6>
-                                        <p>168-29 Hillside Ave. 2nd floor, Suit-2 Jamaica, NY 11432</p>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="far fa-phone"></i>
-                                    </div>
-                                    <div class="content">
-                                        <h6>Call Us</h6>
-                                        <a href="tel:+1 (646) 253-4798">(646) 253-4798
-                                        </a>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="icon">
-                                        <i class="far fa-envelope"></i>
-                                    </div>
-                                    <div class="content">
-                                        <h6>Mail Us</h6>
-                                        <a href="mailto:besttaxexpress@gmail.com"><span>besttaxexpress@gmail.com</span></a>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container">
-        <div class="copyright">
-            <div class="row">
-                <div class="col-md-6 align-self-center">
-                    <p class="copyright-text">
-                        &copy; Copyright <span id="date"></span> <a href="#"> Best Tax Express </a> All Rights Reserved.<br/>
-                        Design and Develop by <a href="https://monoget.com.bd">Monoget Saha</a>.
-                    </p>
-                </div>
-                <div class="col-md-6 align-self-center">
-                    <ul class="footer-social">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-x-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!-- footer area end -->
+<?php include 'include/footer.php'; ?>
 
 
-<!-- scroll-top -->
-<a href="#" id="scroll-top"><i class="far fa-arrow-up"></i></a>
-<!-- scroll-top end -->
-
-
-<!-- js -->
-<script src="assets/js/jquery-3.7.1.min.js"></script>
-<script src="assets/js/modernizr.min.js"></script>
-<script src="assets/js/bootstrap.bundle.min.js"></script>
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<script src="assets/js/jquery.appear.min.js"></script>
-<script src="assets/js/jquery.easing.min.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script>
-<script src="assets/js/counter-up.js"></script>
-<script src="assets/js/jquery.nice-select.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/main.js"></script>
+<?php include 'include/js.php'; ?>
 
 </body>
 </html>
