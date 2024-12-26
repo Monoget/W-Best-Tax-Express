@@ -62,60 +62,68 @@
                     </button>
                 </div>
                 <div class="collapse navbar-collapse" id="main_nav">
+                    <?php
+                    // Get the current script name or URL
+                    $currentPage = basename($_SERVER['REQUEST_URI'], ".php");
+                    ?>
+
                     <ul class="navbar-nav">
-                        <li class="nav-item"><a class="nav-link" href="home">Home</a></li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php echo ($currentPage == 'home') ? 'active' : ''; ?>" href="home">Home</a>
+                        </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">What We Do</a>
+                            <a class="nav-link dropdown-toggle <?php echo (in_array($currentPage, ['tax-services', 'accounting-services', 'bookkeeping', 'new-business-startup', 'audit-review-compilation', 'financial-planning', 'part-time-cfo', 'cash-flow-management', 'bank-loan-assistance'])) ? 'active' : ''; ?>" data-bs-toggle="dropdown" href="#">What We Do</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="tax-services">TAX</a></li>
-                                <li><a class="dropdown-item" href="accounting-services">ACCOUNTING SERVICES</a></li>
-                                <li><a class="dropdown-item" href="bookkeeping">BOOKKEEPING</a></li>
-                                <li><a class="dropdown-item" href="new-business-startup">NEW BUSINESS STARTUP</a></li>
-                                <li><a class="dropdown-item" href="audit-review-compilation">AUDIT-REVIEW-COMPILATION</a></li>
-                                <li><a class="dropdown-item" href="financial-planning">FINANCIAL PLANNING</a></li>
-                                <li><a class="dropdown-item" href="part-time-cfo">PART-TIME CFO</a></li>
-                                <li><a class="dropdown-item" href="cash-flow-management">CASH FLOW MANAGEMENT</a></li>
-                                <li><a class="dropdown-item" href="bank-loan-assistance">BANK LOAN ASSISTANCE</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'tax-services') ? 'active' : ''; ?>" href="tax-services">TAX</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'accounting-services') ? 'active' : ''; ?>" href="accounting-services">ACCOUNTING SERVICES</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'bookkeeping') ? 'active' : ''; ?>" href="bookkeeping">BOOKKEEPING</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'new-business-startup') ? 'active' : ''; ?>" href="new-business-startup">NEW BUSINESS STARTUP</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'audit-review-compilation') ? 'active' : ''; ?>" href="audit-review-compilation">AUDIT-REVIEW-COMPILATION</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'financial-planning') ? 'active' : ''; ?>" href="financial-planning">FINANCIAL PLANNING</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'part-time-cfo') ? 'active' : ''; ?>" href="part-time-cfo">PART-TIME CFO</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'cash-flow-management') ? 'active' : ''; ?>" href="cash-flow-management">CASH FLOW MANAGEMENT</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'bank-loan-assistance') ? 'active' : ''; ?>" href="bank-loan-assistance">BANK LOAN ASSISTANCE</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">We Serve</a>
+                            <a class="nav-link dropdown-toggle <?php echo (in_array($currentPage, ['individuals', 'e-commerce', 'franchise-businesses', 'restaurant-hospitality', 'sports-and-entertainment', 'digital-assets', 'retail-wholesale', 'real-estate', 'cannabis', 'healthcare', 'law-firms', '501-c-3-nonprofits'])) ? 'active' : ''; ?>" data-bs-toggle="dropdown" href="#">We Serve</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="individuals">Individuals</a></li>
-                                <li><a class="dropdown-item" href="e-commerce">E-Commerce</a></li>
-                                <li><a class="dropdown-item" href="franchise-businesses">Franchise Businesses</a></li>
-                                <li><a class="dropdown-item" href="restaurant-hospitality">Restaurant/Hospitality</a></li>
-                                <li><a class="dropdown-item" href="sports-and-entertainment">Sports and Entertainment</a></li>
-                                <li><a class="dropdown-item" href="digital-assets">Digital Assets</a></li>
-                                <li><a class="dropdown-item" href="retail-wholesale">Retail/Wholesale</a></li>
-                                <li><a class="dropdown-item" href="real-estate">Real Estate</a></li>
-                                <li><a class="dropdown-item" href="cannabis">Cannabis</a></li>
-                                <li><a class="dropdown-item" href="healthcare">Healthcare</a></li>
-                                <li><a class="dropdown-item" href="law-firms">Law Firms</a></li>
-                                <li><a class="dropdown-item" href="501-c-3-nonprofits">501 (c) (3) Nonprofits</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'individuals') ? 'active' : ''; ?>" href="individuals">Individuals</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'e-commerce') ? 'active' : ''; ?>" href="e-commerce">E-Commerce</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'franchise-businesses') ? 'active' : ''; ?>" href="franchise-businesses">Franchise Businesses</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'restaurant-hospitality') ? 'active' : ''; ?>" href="restaurant-hospitality">Restaurant/Hospitality</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'sports-and-entertainment') ? 'active' : ''; ?>" href="sports-and-entertainment">Sports and Entertainment</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'digital-assets') ? 'active' : ''; ?>" href="digital-assets">Digital Assets</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'retail-wholesale') ? 'active' : ''; ?>" href="retail-wholesale">Retail/Wholesale</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'real-estate') ? 'active' : ''; ?>" href="real-estate">Real Estate</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'cannabis') ? 'active' : ''; ?>" href="cannabis">Cannabis</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'healthcare') ? 'active' : ''; ?>" href="healthcare">Healthcare</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'law-firms') ? 'active' : ''; ?>" href="law-firms">Law Firms</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == '501-c-3-nonprofits') ? 'active' : ''; ?>" href="501-c-3-nonprofits">501 (c) (3) Nonprofits</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">About</a>
+                            <a class="nav-link dropdown-toggle <?php echo (in_array($currentPage, ['about-us', 'why-choose-a-cpa', 'client-reviews'])) ? 'active' : ''; ?>" data-bs-toggle="dropdown" href="#">About</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="about-us">About Us</a></li>
-                                <li><a class="dropdown-item" href="why-choose-a-cpa">Why Choose A CPA?</a></li>
-                                <li><a class="dropdown-item" href="client-reviews">Client Reviews</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'about-us') ? 'active' : ''; ?>" href="about-us">About Us</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'why-choose-a-cpa') ? 'active' : ''; ?>" href="why-choose-a-cpa">Why Choose A CPA?</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'client-reviews') ? 'active' : ''; ?>" href="client-reviews">Client Reviews</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Client Center</a>
+                            <a class="nav-link dropdown-toggle <?php echo (in_array($currentPage, ['make-a-payment', 'tax-preparation-checklist', 'refund-tracking'])) ? 'active' : ''; ?>" data-bs-toggle="dropdown" href="#">Client Center</a>
                             <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item" href="make-a-payment">MAKE A PAYMENT</a></li>
-                                <li><a class="dropdown-item" href="tax-preparation-checklist">Tax Preparation Checklist</a></li>
-                                <li><a class="dropdown-item" href="refund-tracking">Refund Tracking</a></li>
-                                <li><a class="dropdown-item" href="https://www.bankrate.com/calculators/">Financial Calculator</a></li>
-                                <li><a class="dropdown-item" href="https://apps.irs.gov/app/tax-withholding-estimator">Tax Withholding Estimator</a></li>
-                                <li><a class="dropdown-item" href="https://www.fema.gov/">FEMA</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'make-a-payment') ? 'active' : ''; ?>" href="make-a-payment">MAKE A PAYMENT</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'tax-preparation-checklist') ? 'active' : ''; ?>" href="tax-preparation-checklist">Tax Preparation Checklist</a></li>
+                                <li><a class="dropdown-item <?php echo ($currentPage == 'refund-tracking') ? 'active' : ''; ?>" href="refund-tracking">Refund Tracking</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a class="nav-link" href="pricing">Pricing</a></li>
-                        <li class="nav-item"><a class="nav-link active" href="contact">Contact</a></li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php echo ($currentPage == 'pricing') ? 'active' : ''; ?>" href="pricing">Pricing</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php echo ($currentPage == 'contact') ? 'active' : ''; ?>" href="contact">Contact</a>
+                        </li>
                     </ul>
                     <div class="nav-right">
                         <div class="sidebar-btn">

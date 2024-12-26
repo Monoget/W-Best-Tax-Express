@@ -5568,6 +5568,10 @@ label {
   }
 }
 
+.dropdown-item.active, .dropdown-item:active{
+  color: var(--color-white) !important;
+}
+
 
 /*====================
 51. Home 3
