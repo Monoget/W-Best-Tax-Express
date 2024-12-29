@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Business Loan Assistance - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Business Loan Assistance</h2>
             <ul class="breadcrumb-menu">
                 <li><a href="home">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li class="active">Business Loan Assistance</li>
             </ul>
         </div>
     </div>
@@ -79,19 +79,30 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
+                                <h3 class="mb-20">If You Need Bank Financing, It Pays to Be Prepared</h3>
                                 <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
+                                    The US Department of the Treasury has invested more than $3.9 billion in community banks across 47 states and the District of Columbia as part of the Small Business Lending Fund. Despite the availability of these funds, however, many small business owners have discovered the hard way that securing bank financing is not an easy task. If you’ve tried - and been unsuccessful at - obtaining bank financing for your small business without the help of a trusted advisor like us, you may be wondering where you went wrong.
+
+                                    Banks are not in the business of handing out money to everyone who asks. When you apply for a loan, they are evaluating your ability to pay back that loan by examining a number of factors. Whether you need money for startup costs or expanding your business, understanding what a bank wants and how to prepare for it can mean the difference between securing the financing you need or having to scrape together cash from other sources.
                                 </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
+                                <h3 class="mb-3">How We Help You Secure Bank Financing:</h3>
                                 <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
+                                    The first step we take is to make sure we understand your business and what you are trying to achieve. Next, we take a look at financial performance and projections and identify potential sources for financing. The final step is to work with you to prepare a successful business loan proposal that includes the following services:
                                 </p>
+                                <ul class="case-single-list">
+                                    <li><i class="far fa-check"></i>Executive summary
+                                    </li>
+                                    <li><i class="far fa-check"></i>Pro forma cash budgets
+                                    </li>
+                                    <li><i class="far fa-check"></i>Business financial statements
+                                    </li>
+                                    <li><i class="far fa-check"></i>Owner’s personal financial statements
+                                    </li>
+                                    <li><i class="far fa-check"></i>Lender introductions
+                                    </li>
+                                    <li><i class="far fa-check"></i>Representation
+                                    </li>
+                                </ul>
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
                                         <img alt="" src="assets/img/case/01.jpg">
@@ -100,46 +111,16 @@
                                         <img alt="" src="assets/img/case/02.jpg">
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
+                                <h3 class="mb-3">Are You Ready to Get the Financing You Deserve?</h3>
                                 <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
+                                    Obtaining bank financing for your small business is a major decision. If you’re ready to take the next step, we are here to help you achieve your goal.
                                 </p>
                                 <div class="my-4">
                                     <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
                                         <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
+                                            Call today or fill out the contact form below to speak with an experienced Accounting firm you can trust. You’ll be glad you did!
                                         </p>
                                     </div>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
                                 </div>
                             </div>
                         </div>

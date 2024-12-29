@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Cash Flow Management Services - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Cash Flow Management Services</h2>
             <ul class="breadcrumb-menu">
                 <li><a href="home">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li class="active">Cash Flow Management Services</li>
             </ul>
         </div>
     </div>
@@ -79,18 +79,15 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
+                                <h3 class="mb-20">Many Businesses Fail Because of Poor Cash Flow Management - Don’t Be One of Them</h3>
                                 <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
+                                    Cash flow refers to the movement of money flowing into and out of a business. Positive cash flow is when a business owner brings in more money than spent. It is what every business owner strives for because it enables him/her to pay off liabilities and invest in the business.
+
+                                    Conversely, if the business owner is spending more money than he/she is bringing in, it is called negative cash flow. While there will be times when every business experiences temporary periods of negative cash flow, too many months of negative cash flow can - and will - cause a business to fail.
                                 </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
+                                <h3 class="mb-3">Managing Cash Flow Is the Key to Operating Any Successful Business.</h3>
                                 <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
+                                    As tax and accounting professionals for small and medium-sized businesses, our expertise lies in helping business owners manage their cash flow better with the goal of increased profitability.
                                 </p>
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
@@ -100,46 +97,30 @@
                                         <img alt="" src="assets/img/case/02.jpg">
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
-                                <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
-                                </p>
+                                <h3 class="mb-3">Here’s what we do for you: </h3>
+                                <ul class="case-single-list">
+                                    <li><i class="far fa-check"></i>Develop short and long-term cash projections
+                                    </li>
+                                    <li><i class="far fa-check"></i>Analyze prior years cash flow statements to help you understand where the money goes
+                                    </li>
+                                    <li><i class="far fa-check"></i>Prepare monthly, quarterly, and annual cash flow statements
+                                    </li>
+                                    <li><i class="far fa-check"></i>Provide you with tools to accelerate the collection process
+                                    </li>
+                                    <li><i class="far fa-check"></i>Develop updated billing and payment policies
+                                    </li>
+                                    <li><i class="far fa-check"></i>Assist with obtaining a line of credit
+                                    </li>
+                                    <li><i class="far fa-check"></i>Help you get the maximum rate of return on surplus cash
+                                    </li>
+                                </ul>
                                 <div class="my-4">
                                     <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
+                                        <h3 class="mb-3">Avoid a Cash Crisis, Call Us First.</h3>
                                         <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
+                                            If your business is suffering because you operate in cash crisis mode more often than not, give us a call today.
                                         </p>
                                     </div>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
                                 </div>
                             </div>
                         </div>

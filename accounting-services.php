@@ -79,7 +79,6 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Bookkeeping</h3>
                                 <p class="mb-20">
                                     Accurate bookkeeping is essential to your company’s long-term viability.
                                     Experienced, affordable, and reliable, we serve a variety of industries and clients
@@ -127,7 +126,7 @@
                                 <div class="my-4">
                                     <div class="mb-3">
                                         <h3 class="mb-3">Additional Accounting Services</h3>
-                                        <p>Call 646-718-5912 to learn more about the following Business Accounting
+                                        <p>Call 646-253-4798 to learn more about the following Business Accounting
                                             Services:</p>
                                     </div>
                                     <h3 class="mb-3">Support:</h3>
