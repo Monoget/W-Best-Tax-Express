@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Cannabis Accounting Services - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Cannabis Accounting Services</h2>
             <ul class="breadcrumb-menu">
                 <li><a href="home">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li class="active">Cannabis Accounting Services</li>
             </ul>
         </div>
     </div>
@@ -46,28 +46,43 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="case-sidebar">
                             <div class="widget case-sidebar-content">
-                                <h4 class="case-sidebar-title">What We Do</h4>
+                                <h4 class="case-sidebar-title">What We Serve</h4>
                                 <ul>
                                     <li>
-                                        TAX
+                                        Service for Individuals
                                     </li>
                                     <li>
-                                        BOOKKEEPING
+                                        E-Commerce
                                     </li>
                                     <li>
-                                        PART-TIME CFO
+                                        Franchise Business
                                     </li>
                                     <li>
-                                        FINANCIAL PLANNING
+                                        Restaurant/Hospitality
                                     </li>
                                     <li>
-                                        AUDIT-REVIEW-COMPILATION
+                                        Sports and Entertainment
                                     </li>
                                     <li>
-                                        CASH FLOW MANAGEMENT
+                                        Digital Assets
                                     </li>
                                     <li>
-                                        BANK FINANCING
+                                        Retail/Wholesale
+                                    </li>
+                                    <li>
+                                        Real Estate
+                                    </li>
+                                    <li>
+                                        Cannabis
+                                    </li>
+                                    <li>
+                                        Healthcare
+                                    </li>
+                                    <li>
+                                        Law Firms
+                                    </li>
+                                    <li>
+                                        501 (c)(3) Nonprofits
                                     </li>
                                 </ul>
                             </div>
@@ -79,19 +94,16 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
+                                <h3 class="mb-3">Cannabis Industry Accounting Services</h3>
+
                                 <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
+                                    The highly regulated cannabis industry faces strict sales tracking guidelines and other government regulations that make managing accounting processes a challenge. At The Firm of Sheldon L. Richards, CPA, we can help! We offer accounting and bookkeeping services designed to overcome obstacles and grow a successful marijuana business. Our cannabis CPA firm gives you more than dry financial data; we’ll show you how to use your numbers to control expenses, stay compliant with state and federal tax regulations, and make smart business decisions.
                                 </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
+
                                 <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
+                                    Our powerful accounting solutions will make managing your finances and maintaining tax compliance easier. We’ll help you implement best practices for handling cash, reconcile your seed-to-sale system with QuickBooks, and solve operational problems. We’ll also guide you through allocating costs so your business optimizes deductions to lower your taxable income and reduce taxes owed. Discover the difference of working with a CPA firm that understands your business!
                                 </p>
+
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
                                         <img alt="" src="assets/img/case/01.jpg">
@@ -100,47 +112,25 @@
                                         <img alt="" src="assets/img/case/02.jpg">
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
+
+                                <h3 class="mb-3">Our Cannabis Industry Accounting Services Include:</h3>
+                                <ul class="case-single-list">
+                                    <li><i class="far fa-check"></i>Specialized accounting and bookkeeping</li>
+                                    <li><i class="far fa-check"></i>Assistance forming a legal business structure</li>
+                                    <li><i class="far fa-check"></i>Audit-ready financials</li>
+                                    <li><i class="far fa-check"></i>Monthly reconciliations of POS data</li>
+                                    <li><i class="far fa-check"></i>Reconciliations of seed-to-sale tracking systems with QuickBooks</li>
+                                    <li><i class="far fa-check"></i>Bank reconciliations</li>
+                                    <li><i class="far fa-check"></i>Record monthly transactions</li>
+                                    <li><i class="far fa-check"></i>Review general ledger and reconcile balance sheet accounts</li>
+                                    <li><i class="far fa-check"></i>Evaluate and refine internal controls</li>
+                                    <li><i class="far fa-check"></i>GAAP cost accounting</li>
+                                </ul>
+
                                 <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
+                                    Get started by completing our intake form below. We will be in touch shortly.
                                 </p>
-                                <div class="my-4">
-                                    <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
-                                        <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
-                                </div>
+
                             </div>
                         </div>
                     </div>

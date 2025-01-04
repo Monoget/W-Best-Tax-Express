@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Nonprofit Accounting Services - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Nonprofit Accounting Services</h2>
             <ul class="breadcrumb-menu">
                 <li><a href="home">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li class="active">Nonprofit Accounting Services</li>
             </ul>
         </div>
     </div>
@@ -46,28 +46,43 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="case-sidebar">
                             <div class="widget case-sidebar-content">
-                                <h4 class="case-sidebar-title">What We Do</h4>
+                                <h4 class="case-sidebar-title">What We Serve</h4>
                                 <ul>
                                     <li>
-                                        TAX
+                                        Service for Individuals
                                     </li>
                                     <li>
-                                        BOOKKEEPING
+                                        E-Commerce
                                     </li>
                                     <li>
-                                        PART-TIME CFO
+                                        Franchise Business
                                     </li>
                                     <li>
-                                        FINANCIAL PLANNING
+                                        Restaurant/Hospitality
                                     </li>
                                     <li>
-                                        AUDIT-REVIEW-COMPILATION
+                                        Sports and Entertainment
                                     </li>
                                     <li>
-                                        CASH FLOW MANAGEMENT
+                                        Digital Assets
                                     </li>
                                     <li>
-                                        BANK FINANCING
+                                        Retail/Wholesale
+                                    </li>
+                                    <li>
+                                        Real Estate
+                                    </li>
+                                    <li>
+                                        Cannabis
+                                    </li>
+                                    <li>
+                                        Healthcare
+                                    </li>
+                                    <li>
+                                        Law Firms
+                                    </li>
+                                    <li>
+                                        501 (c)(3) Nonprofits
                                     </li>
                                 </ul>
                             </div>
@@ -79,18 +94,10 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
+                                <h3 class="mb-3">Nonprofit Accounting Services</h3>
+
                                 <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
-                                </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
-                                <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
+                                    As a 501(c)(3) organization in New York and surrounding areas, you face unique challenges that for-profit businesses don’t, such as the annual submission of Form 990, compliance with (OMB) Circular A-133 requirements, or paying taxes on unrelated business income. That’s why it pays to have a dedicated team of tax and accounting professionals that specializes in nonprofit accounting and tax compliance on your side.
                                 </p>
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
@@ -100,47 +107,33 @@
                                         <img alt="" src="assets/img/case/02.jpg">
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
+
+
+                                <h3 class="mb-3">Make Us Your Go-to for Outsourced Nonprofit Accounting Services</h3>
                                 <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
+                                    Using state-of-the-art technology designed for nonprofits, as well as effective communication and proactive tax planning techniques, we make sure that every financial decision you undertake complies with your organization’s bylaws, maximizes your existing funding sources, and reduces costs.
                                 </p>
-                                <div class="my-4">
-                                    <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
-                                        <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
-                                </div>
+
+                                <p class="mb-20">
+                                    Whether you’re an established nonprofit organization, association, foundation, charity, or other service organization, or are just getting started turning your idea into reality, we can help.
+                                </p>
+
+                                <h3 class="mb-3">Here’s What Else We Do for You:</h3>
+                                <ul class="case-single-list">
+                                    <li><i class="far fa-check"></i>Nonprofit general ledger accounting utilizing the latest ERP software</li>
+                                    <li><i class="far fa-check"></i>Conduct annual audits</li>
+                                    <li><i class="far fa-check"></i>Prepare quarterly and annual financial statements</li>
+                                    <li><i class="far fa-check"></i>Prepare reviewed or compiled financial statements</li>
+                                    <li><i class="far fa-check"></i>Submit annual Forms 990 and 990-T</li>
+                                    <li><i class="far fa-check"></i>Prepare supporting documents (income, program and functional expenses, balance sheets, revenue support schedules)</li>
+                                    <li><i class="far fa-check"></i>Comply with state laws affecting nonprofits</li>
+                                    <li><i class="far fa-check"></i>Apply for tax-exempt status under Section 501(c)(3) - including filing Form 1023</li>
+                                </ul>
+
+                                <p class="mb-20">
+                                    Nonprofit auditing firms are hard to find. Are you ready to get started? Please complete our intake form below. We will be in touch shortly.
+                                </p>
+
                             </div>
                         </div>
                     </div>

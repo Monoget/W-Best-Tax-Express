@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Digital Assets Accounting Services - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Digital Assets Accounting Services</h2>
             <ul class="breadcrumb-menu">
                 <li><a href="home">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li class="active">Digital Assets Accounting Services</li>
             </ul>
         </div>
     </div>
@@ -46,28 +46,43 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="case-sidebar">
                             <div class="widget case-sidebar-content">
-                                <h4 class="case-sidebar-title">What We Do</h4>
+                                <h4 class="case-sidebar-title">What We Serve</h4>
                                 <ul>
                                     <li>
-                                        TAX
+                                        Service for Individuals
                                     </li>
                                     <li>
-                                        BOOKKEEPING
+                                        E-Commerce
                                     </li>
                                     <li>
-                                        PART-TIME CFO
+                                        Franchise Business
                                     </li>
                                     <li>
-                                        FINANCIAL PLANNING
+                                        Restaurant/Hospitality
                                     </li>
                                     <li>
-                                        AUDIT-REVIEW-COMPILATION
+                                        Sports and Entertainment
                                     </li>
                                     <li>
-                                        CASH FLOW MANAGEMENT
+                                        Digital Assets
                                     </li>
                                     <li>
-                                        BANK FINANCING
+                                        Retail/Wholesale
+                                    </li>
+                                    <li>
+                                        Real Estate
+                                    </li>
+                                    <li>
+                                        Cannabis
+                                    </li>
+                                    <li>
+                                        Healthcare
+                                    </li>
+                                    <li>
+                                        Law Firms
+                                    </li>
+                                    <li>
+                                        501 (c)(3) Nonprofits
                                     </li>
                                 </ul>
                             </div>
@@ -79,18 +94,19 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
+                                <h3 class="mb-3">Digital Assets Accounting Services in New York City</h3>
+
+                                <h3 class="mb-3">Tax Preparation and Accounting Services for Digital and Virtual Currency Transactions</h3>
                                 <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
+                                    The rise of cryptocurrencies such as Bitcoin, Ethereum, Binance Coin, and Dogecoin presents many challenges for businesses. Among them are finding a CPA or tax preparation and accounting firm that is knowledgeable - and experienced - in taxation issues, as well as navigating laws and regulations that are constantly evolving.
                                 </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
+
+                                <h3 class="mb-3">Taxation of Digital and Virtual Currency</h3>
                                 <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
+                                    Cryptocurrency is a form of digital or virtual payment or currency that can be exchanged online for goods and services. These exchanges use a secure computer technology platform called blockchain to validate and record transactions digitally on a digital ledger.
+                                </p>
+                                <p class="mb-20">
+                                    Because the IRS defines virtual currency as a digital representation of value, it is treated as property for tax purposes. Therefore, whether you experience a gain or loss, it must be reported on Schedule D of IRS Form 1040. Long-term gains (assets held more than 12 months) are subject to capital gains tax rates, whereas short-term gains of less than 12 months are taxed as ordinary income.
                                 </p>
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
@@ -100,47 +116,29 @@
                                         <img alt="" src="assets/img/case/02.jpg">
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
+
+
+                                <h3 class="mb-3">Comprehensive Cryptocurrency Tax and Accounting Services</h3>
                                 <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
+                                    Our team of tax and accounting professionals has the knowledge and expertise you need to ensure compliance with a complicated set of rules. Whether you are a small business owner who accepts digital and virtual currency as payment for goods and services or an individual investor, we can help.
                                 </p>
-                                <div class="my-4">
-                                    <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
-                                        <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
-                                </div>
+
+                                <h3 class="mb-3">Here’s What We Do for You:</h3>
+                                <ul class="case-single-list">
+                                    <li><i class="far fa-check"></i>Prepare cryptocurrency tax returns</li>
+                                    <li><i class="far fa-check"></i>Amend prior-year tax returns to reflect digital currency transactions</li>
+                                    <li><i class="far fa-check"></i>Ensure compliance with local, state, and federal tax regulations</li>
+                                    <li><i class="far fa-check"></i>Ensure compliance with international regulations, if applicable, such as FBAR (FinCEN Form 114) and IRS Form 8938</li>
+                                    <li><i class="far fa-check"></i>Provide accounting and reporting services for companies that use digital currency</li>
+                                    <li><i class="far fa-check"></i>Assist in the valuation of digital currencies</li>
+                                    <li><i class="far fa-check"></i>Cryptocurrency advisory and consultation</li>
+                                </ul>
+
+                                <h3 class="mb-3">A Cryptocurrency CPA Firm You Can Count On</h3>
+                                <p class="mb-20">
+                                    The rules surrounding the reporting and taxation of cryptocurrency are complex, but we are here to help you every step of the way. If you have any questions or would like additional information about our cryptocurrency tax and accounting services, please contact us using the form below.
+                                </p>
+
                             </div>
                         </div>
                     </div>

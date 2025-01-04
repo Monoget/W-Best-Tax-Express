@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Franchise Accounting Services - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Franchise Accounting Services</h2>
             <ul class="breadcrumb-menu">
                 <li><a href="home">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li class="active">Franchise Accounting Services</li>
             </ul>
         </div>
     </div>
@@ -46,28 +46,43 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="case-sidebar">
                             <div class="widget case-sidebar-content">
-                                <h4 class="case-sidebar-title">What We Do</h4>
+                                <h4 class="case-sidebar-title">What We Serve</h4>
                                 <ul>
                                     <li>
-                                        TAX
+                                        Service for Individuals
                                     </li>
                                     <li>
-                                        BOOKKEEPING
+                                        E-Commerce
                                     </li>
                                     <li>
-                                        PART-TIME CFO
+                                        Franchise Business
                                     </li>
                                     <li>
-                                        FINANCIAL PLANNING
+                                        Restaurant/Hospitality
                                     </li>
                                     <li>
-                                        AUDIT-REVIEW-COMPILATION
+                                        Sports and Entertainment
                                     </li>
                                     <li>
-                                        CASH FLOW MANAGEMENT
+                                        Digital Assets
                                     </li>
                                     <li>
-                                        BANK FINANCING
+                                        Retail/Wholesale
+                                    </li>
+                                    <li>
+                                        Real Estate
+                                    </li>
+                                    <li>
+                                        Cannabis
+                                    </li>
+                                    <li>
+                                        Healthcare
+                                    </li>
+                                    <li>
+                                        Law Firms
+                                    </li>
+                                    <li>
+                                        501 (c)(3) Nonprofits
                                     </li>
                                 </ul>
                             </div>
@@ -79,18 +94,16 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
                                 <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
-                                </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
-                                <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
+                                    Running a franchise business can be a very attractive option for many entrepreneurs. You don’t have nearly as much risk as starting a new business, you have a done-for-you set of business practices and procedures, and a lot of the “mistake making” has already been done.
+
+                                    There are a few cons though. For example, there’s typically a costly initial franchise fee that you must pay the franchisor, performance obligations, and employee overhead.
+
+                                    You are also still responsible for the day-to-day operations of the business, such as managing employees, handling inventory, sales, and accounting. As your business grows, it’s typically a good idea to begin to outsource tasks like accounting and bookkeeping to a professional.
+
+                                    As a franchise owner, it’s important that the accountant you work with has experience in franchise accounting as it is a bit different than accounting for a typical small business. Franchise accountants know the ins and outs of how a franchise works and the intricacies involved in financial reporting.
+
+                                    There are three critical factors in Franchise Reporting
                                 </p>
                                 <div class="row">
                                     <div class="col-md-6 mb-20">
@@ -100,47 +113,50 @@
                                         <img alt="" src="assets/img/case/02.jpg">
                                     </div>
                                 </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
+                                <ul class="case-single-list">
+                                    <li><i class="far fa-check"></i>Monthly/Quarterly Report for Franchisor
+                                    </li>
+                                    <li><i class="far fa-check"></i>Monthly Analytical report for Franchisee with gross profit analysis, % of expenses to total revenue and compare with Industry Standard.
+                                    </li>
+                                    <li><i class="far fa-check"></i>Monthly Financial Statements
+                                    </li>
+                                </ul>
                                 <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
+                                    Whether you own an individual franchise or multiple locations, we can help. The Firm of Sheldon L. Richards, CPA will generate all necessary reports, assist with budgeting and cash flow, and take care of your monthly bookkeeping. We are also available to assist with payroll services and tax preparation.
                                 </p>
-                                <div class="my-4">
-                                    <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
-                                        <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
-                                </div>
-                                <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
-                                </div>
+                                <h3 class="mb-3">Our Franchise Accounting Process</h3>
+                                <p class="mb-20">
+                                    While every franchise is different, we follow a typical process when working with a new franchise accounting client.
+                                </p>
+                                <ul class="case-single-list">
+                                    <li><i class="far fa-check"></i>Set up accounting data file either in QuickBooks or any other software as recommended by the Franchisor
+                                    </li>
+                                    <li><i class="far fa-check"></i>
+                                        Allocate and proper classification of all fixed assets cost, leasehold improvement, landlord allowance towards leasehold improvements.
+                                    </li>
+                                    <li><i class="far fa-check"></i>
+                                        Monthly computation of Franchise fees based on gross revenue/collection.
+                                    </li>
+                                    <li><i class="far fa-check"></i>
+                                        Import sales data from point of sales system to accounting software.
+                                    </li>
+                                    <li><i class="far fa-check"></i>
+                                        Monthly reconciliation of credit card collection per bank deposit vs. credit card batch processing report.
+                                    </li>
+                                    <li><i class="far fa-check"></i>Bank and credit card reconciliation
+                                    </li>
+                                    <li><i class="far fa-check"></i>Accounts Payable Management
+                                    </li>
+                                    <li><i class="far fa-check"></i>Payroll processing with direct deposit to your employee bank account weekly/bi-weekly
+                                    </li>
+                                    <li><i class="far fa-check"></i>Payroll tax deposit, preparation, and filing of quarterly and annual payroll tax returns.
+                                    </li>
+                                    <li><i class="far fa-check"></i>Inventory Management
+                                    </li>
+                                </ul>
+                                <p class="mb-20">
+                                    Ready to work with an experienced Franchise Accountant? Click below to get started!
+                                </p>
                             </div>
                         </div>
                     </div>
