@@ -46,28 +46,25 @@
                     <div class="col-xl-4 col-lg-4">
                         <div class="case-sidebar">
                             <div class="widget case-sidebar-content">
-                                <h4 class="case-sidebar-title">What We Do</h4>
+                                <h4 class="case-sidebar-title">Pricing</h4>
                                 <ul>
                                     <li>
-                                        TAX
+                                        Remote Individual Tax Preparation
                                     </li>
                                     <li>
-                                        BOOKKEEPING
+                                        Remote Business Tax Preparation
                                     </li>
                                     <li>
-                                        PART-TIME CFO
+                                        Monthly Business Accounting Services
                                     </li>
                                     <li>
-                                        FINANCIAL PLANNING
+                                        New Business Startup Services
                                     </li>
                                     <li>
-                                        AUDIT-REVIEW-COMPILATION
+                                        Tax Planning Services
                                     </li>
                                     <li>
-                                        CASH FLOW MANAGEMENT
-                                    </li>
-                                    <li>
-                                        BANK FINANCING
+                                        Personal Financial Planning
                                     </li>
                                 </ul>
                             </div>
@@ -79,67 +76,85 @@
                                 <img alt="thumb" src="assets/img/case/single.jpg">
                             </div>
                             <div class="case-details">
-                                <h3 class="mb-20">Tax Filing</h3>
-                                <p class="mb-20">
-                                    According to a study released by the US Government's General Accounting Office, most
-                                    taxpayers (77% of 71 million taxpayers) believe they benefited from using a
-                                    professional tax preparation service for business tax prep, and personal tax prep.
-                                </p>
-                                <h3 class="mb-3">Tax Reduction Planning</h3>
-                                <p class="mb-20">
-                                    Discover how tax planning can help you reduce your tax liability and maximize your
-                                    after-tax income. Let's go beyond the basic tax preparation service and find
-                                    proactive tax-saving strategies together! Our firm also offers tax preparation
-                                    services, including business tax prep and personal tax prep.
-                                </p>
-                                <div class="row">
-                                    <div class="col-md-6 mb-20">
-                                        <img alt="" src="assets/img/case/01.jpg">
-                                    </div>
-                                    <div class="col-md-6 mb-20">
-                                        <img alt="" src="assets/img/case/02.jpg">
-                                    </div>
-                                </div>
-                                <h3 class="mb-3">Tax Resolution</h3>
-                                <p class="mb-20">
-                                    <b>Need help resolving a complex IRS dispute?</b><br/>
-                                    Getting a letter from the IRS is something that taxpayers rightfully dread. Hiring a
-                                    trusted CPA & advisory firm is the first step to a swift and favorable resolution
-                                    for tax disputes. Our tax professionals will review the dispute, and quickly assess
-                                    your position and that of the IRS. We also offer tax preparation services, including
-                                    business tax prep and personal tax prep.
-                                </p>
                                 <div class="my-4">
-                                    <div class="mb-3">
-                                        <h3 class="mb-3">Sales and Use Tax Filings</h3>
-                                        <p>
-                                            Attention small business owners! Are you struggling with sales tax
-                                            calculations? Our CPA Firm can help you navigate the complexities of sales
-                                            tax filings to ensure compliance in all jurisdictions. Contact us today for
-                                            personalized assistance. Our firm also offers tax preparation services,
-                                            including business tax prep and personal tax prep.
-                                        </p>
-                                    </div>
+                                    <h4>Remote Individual Tax Preparation</h4>
+                                    <ul class="case-single-list mb-3">
+                                        <li><i class="far fa-check"></i> $249: One Filer</li>
+                                        <li><i class="far fa-check"></i> $368: Two Filers</li>
+                                        <li><i class="far fa-check"></i> $405: Real Estate/Investments</li>
+                                        <li><i class="far fa-check"></i> $450: Self-Employed (filing Schedule C)</li>
+                                        <li><i class="far fa-check"></i> $75: Additional state return</li>
+                                        <li><i class="far fa-check"></i> 20% of the original price: Expedited filing request</li>
+                                        <li><i class="far fa-check"></i> $199: Written or phone resolution with IRS or State</li>
+                                    </ul>
+                                    <h4>Remote Business Tax Preparation</h4>
+                                    <ul class="case-single-list mb-3">
+                                        <li><i class="far fa-check"></i> $2,000: NYC (1120, 1120S, and 1065 includes IRS, NYS, and NYC)</li>
+                                        <li><i class="far fa-check"></i> $1,600: Outside NYC (1120, 1120S, and 1065)</li>
+                                        <li><i class="far fa-check"></i> $449: 1120, 1120S, and 1065 (zero/minimal activity)</li>
+                                        <li><i class="far fa-check"></i> $3,500: 5471 Controlled Foreign Corporations</li>
+                                        <li><i class="far fa-check"></i> $1,500: 5472 Foreign-Owned Corporations</li>
+                                        <li><i class="far fa-check"></i> $2,500: 8865 Foreign Partnerships</li>
+                                        <li><i class="far fa-check"></i> $2,500: 990, 990-T</li>
+                                        <li><i class="far fa-check"></i> $2,500: 1041</li>
+                                        <li><i class="far fa-check"></i> TBD: 706 Estate Tax Return</li>
+                                        <li><i class="far fa-check"></i> $300: 709 Gift Tax Return</li>
+                                        <li><i class="far fa-check"></i> $300: FBAR-FinCEN Form 114</li>
+                                        <li><i class="far fa-check"></i> Amended Tax Returns: Same as above</li>
+                                        <li><i class="far fa-check"></i> $75 per jurisdiction: Extension filings</li>
+                                        <li><i class="far fa-check"></i> $150/hour: Partial bookkeeping (excluding return assembly fees)</li>
+                                        <li><i class="far fa-check"></i> $299 per tax year: Prior year non-filer (non-refundable fee)</li>
+                                        <li><i class="far fa-check"></i> $100 per filing: Sales and Use Tax Compliance</li>
+                                        <li><i class="far fa-check"></i> $300: Property Tax Compliance</li>
+                                    </ul>
                                 </div>
                                 <div class="my-4">
-                                    <h3 class="mb-3">Beneficial Owner Information (BOI)</h3>
-                                    <p>
-                                        Under the Corporate Transparency Act (CTA), businesses must submit a BOI report
-                                        detailing these individuals, enhancing transparency, and aiding in the
-                                        prevention of financial crimes such as money laundering, corruption, and tax
-                                        evasion. Our firm also offers tax preparation services, including business tax
-                                        prep and personal tax prep.
-                                    </p>
+                                    <h4>Monthly Business Accounting Services</h4>
+                                    <ul class="case-single-list mb-3">
+                                        <li><i class="far fa-check"></i> $349/month: Under $10K expenses</li>
+                                        <li><i class="far fa-check"></i> $449/month: $10K-$25K expenses</li>
+                                        <li><i class="far fa-check"></i> $649/month: $25K-$50K expenses</li>
+                                        <li><i class="far fa-check"></i> $1,049/month: $50K-$100K expenses (includes 2 hours Virtual CFO services)</li>
+                                        <li><i class="far fa-check"></i> $1,549/month: $100K-$200K expenses (includes 4 hours Virtual CFO services)</li>
+                                        <li><i class="far fa-check"></i> $2,049/month: Over $200K expenses (includes 8 hours Virtual CFO services)</li>
+                                        <li><i class="far fa-check"></i> Add-On Services:</li>
+                                    </ul>
+                                    <h4>Monthly Business Accounting Services</h4>
+                                    <ul class="case-single-list mb-3">
+                                        <li><i class="far fa-check"></i> $100: Sales Tax Filing</li>
+                                        <li><i class="far fa-check"></i> $150: Payroll (2 owners or less)</li>
+                                        <li><i class="far fa-check"></i> $50: Payroll HR (5 or fewer employees)</li>
+                                        <li><i class="far fa-check"></i> $150: Year-round Tax Reduction Planning & Consulting</li>
+                                        <li><i class="far fa-check"></i> $53: Annual Personal Tax Return for Business Owner (1040)</li>
+                                    </ul>
                                 </div>
                                 <div class="my-4">
-                                    <h3 class="mb-3">REPORT FOREIGN BANK AND FINANCIAL ACCOUNTS (FBAR)</h3>
-                                    <p>
-                                        Are you a U.S. citizen with foreign financial accounts exceeding $10,000? Don't
-                                        forget about FBAR (FinCEN Form 114) filing requirements! Stay compliant with the
-                                        law and avoid penalties. Schedule a free consultation with us today to ensure
-                                        peace of mind. Our firm also offers tax preparation services, including business
-                                        tax prep and personal tax prep.
-                                    </p>
+                                    <h4>New Business Startup Services</h4>
+                                    <ul class="case-single-list mb-3">
+                                        <li><i class="far fa-check"></i> $845: Essential (Includes filing, registered agent, operating agreement, and more)</li>
+                                        <li><i class="far fa-check"></i> $1,285: Essential Plus (Includes all Essential services + payroll setup/training)</li>
+                                        <li><i class="far fa-check"></i> $1,585: Premium S-Corporation (Includes all Essential Plus services + S-Corporation Election)</li>
+                                    </ul>
+                                </div>
+                                <div class="my-4">
+                                    <h4>Tax Planning Services</h4>
+                                    <ul class="case-single-list mb-3">
+                                        <li><i class="far fa-check"></i> $3,500: Advanced Tax Planning Level 1 (L1)</li>
+                                        <li><i class="far fa-check"></i> $6,500: Advanced Tax Planning Level 2 (L2)</li>
+                                        <li><i class="far fa-check"></i> $10,000: Advanced Tax Planning Level 3 (L3)</li>
+                                        <li><i class="far fa-check"></i> $325/hour: Basic Tax Planning (Current-year Tax Strategy Assessment, 3 hours minimum)</li>
+                                        <li><i class="far fa-check"></i> $325/hour: Additional 3 hours for multi-year Tax Strategy Assessment</li>
+                                    </ul>
+                                </div>
+                                <div class="my-4">
+                                    <h4>Personal Financial Planning</h4>
+                                    <ul class="case-single-list mb-3">
+                                        <li><i class="far fa-check"></i> $555/month: Monthly Retainer (For ongoing services, up to $500K AUM)</li>
+                                        <li><i class="far fa-check"></i> $2,500: One-Time Comprehensive Financial Plan (Single)</li>
+                                        <li><i class="far fa-check"></i> $5,000: One-Time Comprehensive Financial Plan (Couple)</li>
+                                        <li><i class="far fa-check"></i> $942: One-Service Request</li>
+                                        <li><i class="far fa-check"></i> Custom pricing for AUM above $500K</li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>

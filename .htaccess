@@ -60,6 +60,8 @@ RewriteRule ^pricing pricing.php [NC,L]
 
 RewriteRule ^contact contact.php [NC,L]
 
+RewriteRule ^social social.php [NC,L]
+
 RewriteRule ^error error.php [NC,L]
 
 RewriteRule ^coming-soon coming-soon.php [NC,L]

@@ -345,7 +345,7 @@
                                 <span class="counter" data-count="+" data-speed="3000" data-to="20">20</span>
                                 <span class="unit">+</span>
                             </div>
-                            <h6 class="title">Tax Experts On Staff</h6>
+                            <h6 class="title">Experts Staff on TAX</h6>
                         </div>
                     </div>
                 </div>

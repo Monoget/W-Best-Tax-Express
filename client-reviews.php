@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Testimonials - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -47,9 +47,8 @@
                         <span class="site-title-tagline light"><i class="fas fa-percent"></i> Testimonials</span>
                         <h2 class="site-title">What Our Client <span>Say's</span> about us</h2>
                         <p>
-                            It is a long established fact that a reader will be distracted by the readable content
-                            of a page when looking at its layout. All the generators on the Internet tend to repeat
-                            predefined chunks.
+                            At Best Tax Express, we pride ourselves on delivering exceptional service that goes beyond expectations.
+                            Our clients are the heart of everything we do, and their satisfaction fuels our commitment to excellence.
                         </p>
                         <a class="theme-btn mt-30" href="#">Know More <i class="fas fa-arrow-right"></i></a>
                     </div>
@@ -86,9 +85,10 @@
                             <div class="testimonial-quote">
                                 <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
                                 <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority
-                                    have
-                                    suffered alteration in some form, by injected humour.
+                                    Best Tax Express has been a lifesaver for me! Their team is incredibly knowledgeable and took the time to
+                                    explain everything in detail. I felt confident that my taxes were in the best hands. They went above and beyond
+                                    to ensure I received the maximum refund. I highly recommend them for anyone looking for reliable and professional
+                                    tax services!
                                 </p>
                             </div>
                             <div class="testimonial-content">
@@ -112,9 +112,9 @@
                             <div class="testimonial-quote">
                                 <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
                                 <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority
-                                    have
-                                    suffered alteration in some form, by injected humour.
+                                    I’ve been working with Best Tax Express for the past three years, and they’ve consistently provided top-notch service.
+                                    Their expertise in tax preparation and planning has helped me save so much time and stress. They’re friendly, approachable,
+                                    and always available to answer my questions. I wouldn’t go anywhere else!
                                 </p>
                             </div>
                             <div class="testimonial-content">
@@ -138,9 +138,9 @@
                             <div class="testimonial-quote">
                                 <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
                                 <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority
-                                    have
-                                    suffered alteration in some form, by injected humour.
+                                    I was dreading tax season, but Best Tax Express made it incredibly easy. The process was smooth, and the team was so efficient
+                                    in preparing my return. They even identified deductions I hadn’t considered! Their attention to detail is unmatched.
+                                    I’m already planning to come back next year.
                                 </p>
                             </div>
                             <div class="testimonial-content">

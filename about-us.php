@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>About Us - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -45,14 +45,14 @@
                 <div class="col-lg-6">
                     <div class="about-left wow fadeInLeft" data-wow-delay=".25s">
                         <div class="about-img">
-                            <img alt="" class="img-1" src="assets/img/about/01.jpg">
-                            <img alt="" class="img-2" src="assets/img/about/02.jpg">
+                            <img alt="Tax Services Image 1" class="img-1" src="assets/img/about/01.jpg">
+                            <img alt="Tax Services Image 2" class="img-2" src="assets/img/about/02.jpg">
                             <div class="about-img-shape">
-                                <img alt="" src="assets/img/shape/06.png">
+                                <img alt="Shape Design" src="assets/img/shape/06.png">
                             </div>
                         </div>
                         <div class="about-experience">
-                            <span>30</span>
+                            <span>2</span>
                             <h5>Years Of <br> Experience</h5>
                         </div>
                     </div>
@@ -62,35 +62,33 @@
                         <div class="site-heading mb-3">
                             <span class="site-title-tagline"><i class="fas fa-percent"></i> About Us</span>
                             <h2 class="site-title">
-                                Maximize your tax and savings with us
+                                Maximize your tax savings with us
                             </h2>
                         </div>
-                        <p class="about-text">There are many variations of passages available but
-                            the majority have suffered alteration in some form, by injected humour, or randomised
-                            words which don't look even slightly believable.</p>
+                        <p class="about-text">With over 30 years of experience in the field of taxation, we specialize in helping individuals and businesses navigate the complexities of tax laws. Our team provides personalized services to ensure maximum tax savings and long-term financial stability.</p>
                         <div class="about-list-wrap">
                             <ul class="about-list">
                                 <li>
                                     <div class="icon">
-                                        <img alt="" src="assets/img/icon/rating-2.svg">
+                                        <img alt="Client Satisfaction" src="assets/img/icon/rating-2.svg">
                                     </div>
                                     <div class="content">
-                                        <h4>Clients Satisfaction</h4>
-                                        <p>Take a look at our round up of the best shows.</p>
+                                        <h4>Client Satisfaction</h4>
+                                        <p>We pride ourselves on offering top-notch services, ensuring every client gets the personalized care they deserve.</p>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="icon">
-                                        <img alt="" src="assets/img/icon/team.svg">
+                                        <img alt="Professional Team" src="assets/img/icon/team.svg">
                                     </div>
                                     <div class="content">
                                         <h4>Professional Team</h4>
-                                        <p>It has survived words which not only five centuries.</p>
+                                        <p>Our team consists of seasoned tax professionals dedicated to providing expert advice and solutions tailored to your needs.</p>
                                     </div>
                                 </li>
                             </ul>
                         </div>
-                        <a class="theme-btn" href="about.html">Discover More<i class="fas fa-arrow-right"></i></a>
+                        <a class="theme-btn" href="#">Discover More<i class="fas fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -114,10 +112,10 @@
                         </div>
                         <div class="content">
                             <div class="info">
-                                <span class="counter" data-count="+" data-speed="3000" data-to="150">150</span>
-                                <span class="unit">k</span>
+                                <span class="counter" data-count="+" data-speed="1000" data-to="50">50</span>
+                                <span class="unit">+</span>
                             </div>
-                            <h6 class="title">Projects Done</h6>
+                            <h6 class="title">Tax Projects Completed</h6>
                         </div>
                     </div>
                 </div>
@@ -128,10 +126,10 @@
                         </div>
                         <div class="content">
                             <div class="info">
-                                <span class="counter" data-count="+" data-speed="3000" data-to="25">25</span>
-                                <span class="unit">K</span>
+                                <span class="counter" data-count="+" data-speed="1000" data-to="25">25</span>
+                                <span class="unit">+</span>
                             </div>
-                            <h6 class="title">Happy Clients</h6>
+                            <h6 class="title">Satisfied Tax Clients</h6>
                         </div>
                     </div>
                 </div>
@@ -142,10 +140,10 @@
                         </div>
                         <div class="content">
                             <div class="info">
-                                <span class="counter" data-count="+" data-speed="3000" data-to="120">120</span>
+                                <span class="counter" data-count="+" data-speed="1000" data-to="120">20</span>
                                 <span class="unit">+</span>
                             </div>
-                            <h6 class="title">Experts Staff</h6>
+                            <h6 class="title">Experts Staff on TAX</h6>
                         </div>
                     </div>
                 </div>
@@ -159,7 +157,7 @@
                                 <span class="counter" data-count="+" data-speed="3000" data-to="50">50</span>
                                 <span class="unit">+</span>
                             </div>
-                            <h6 class="title">Win Awards</h6>
+                            <h6 class="title">Awards for Excellence</h6>
                         </div>
                     </div>
                 </div>
@@ -167,242 +165,6 @@
         </div>
     </div>
     <!-- counter area end -->
-
-
-    <!-- testimonial-area -->
-    <div class="testimonial-area bg py-80">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                    <div class="site-heading wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline light"><i class="fas fa-percent"></i> Testimonials</span>
-                        <h2 class="site-title">What Our Client <span>Say's</span> about us</h2>
-                        <p>
-                            It is a long established fact that a reader will be distracted by the readable content
-                            of a page when looking at its layout. All the generators on the Internet tend to repeat
-                            predefined chunks.
-                        </p>
-                        <a class="theme-btn mt-30" href="#">Know More <i class="fas fa-arrow-right"></i></a>
-                    </div>
-                </div>
-                <div class="col-lg-8">
-                    <div class="testimonial-slider owl-carousel owl-theme wow fadeInUp" data-wow-delay=".25s">
-                        <div class="testimonial-item">
-                            <div class="testimonial-quote">
-                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
-                                <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority
-                                    have
-                                    suffered alteration in some form, by injected humour.
-                                </p>
-                            </div>
-                            <div class="testimonial-content">
-                                <div class="testimonial-author-img">
-                                    <img alt="" src="assets/img/testimonial/01.jpg">
-                                </div>
-                                <div class="testimonial-author-info">
-                                    <h4>Niesha Phips</h4>
-                                    <p>Customer</p>
-                                    <div class="testimonial-rate">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testimonial-item">
-                            <div class="testimonial-quote">
-                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
-                                <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority
-                                    have
-                                    suffered alteration in some form, by injected humour.
-                                </p>
-                            </div>
-                            <div class="testimonial-content">
-                                <div class="testimonial-author-img">
-                                    <img alt="" src="assets/img/testimonial/02.jpg">
-                                </div>
-                                <div class="testimonial-author-info">
-                                    <h4>Daniel Porter</h4>
-                                    <p>Customer</p>
-                                    <div class="testimonial-rate">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testimonial-item">
-                            <div class="testimonial-quote">
-                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
-                                <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority
-                                    have
-                                    suffered alteration in some form, by injected humour.
-                                </p>
-                            </div>
-                            <div class="testimonial-content">
-                                <div class="testimonial-author-img">
-                                    <img alt="" src="assets/img/testimonial/03.jpg">
-                                </div>
-                                <div class="testimonial-author-info">
-                                    <h4>Ebony Swihart</h4>
-                                    <p>Customer</p>
-                                    <div class="testimonial-rate">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="testimonial-item">
-                            <div class="testimonial-quote">
-                                <span class="testimonial-quote-icon"><i class="fal fa-quote-right"></i></span>
-                                <p>
-                                    There are many variations of passages of Lorem Ipsum available, but the majority
-                                    have
-                                    suffered alteration in some form, by injected humour.
-                                </p>
-                            </div>
-                            <div class="testimonial-content">
-                                <div class="testimonial-author-img">
-                                    <img alt="" src="assets/img/testimonial/04.jpg">
-                                </div>
-                                <div class="testimonial-author-info">
-                                    <h4>Loreta Jones</h4>
-                                    <p>Customer</p>
-                                    <div class="testimonial-rate">
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                        <i class="fas fa-star"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- testimonial-area end -->
-
-
-    <!-- team-area -->
-    <div class="team-area py-100">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 mx-auto">
-                    <div class="site-heading text-center wow fadeInDown" data-wow-delay=".25s">
-                        <span class="site-title-tagline"><i class="fas fa-percent"></i> Our Team</span>
-                        <h2 class="site-title">Meet With Our <span>Experts</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row g-4">
-                <div class="col-md-6 col-lg-3">
-                    <div class="team-item wow fadeInUp" data-wow-delay=".25s">
-                        <div class="team-img">
-                            <img alt="thumb" src="assets/img/team/01.jpg">
-                            <div class="team-social-wrap">
-                                <div class="team-social-btn">
-                                    <button type="button"><i class="far fa-share-alt"></i></button>
-                                </div>
-                                <div class="team-social">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-content">
-                            <h4><a href="#">Rodrigues Christy</a></h4>
-                            <span>Project Manager</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                    <div class="team-item wow fadeInDown" data-wow-delay=".25s">
-                        <div class="team-img">
-                            <img alt="thumb" src="assets/img/team/02.jpg">
-                            <div class="team-social-wrap">
-                                <div class="team-social-btn">
-                                    <button type="button"><i class="far fa-share-alt"></i></button>
-                                </div>
-                                <div class="team-social">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-content">
-                            <h4><a href="#">Matthew Hong</a></h4>
-                            <span>CEO And Founder</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                    <div class="team-item wow fadeInUp" data-wow-delay=".25s">
-                        <div class="team-img">
-                            <img alt="thumb" src="assets/img/team/03.jpg">
-                            <div class="team-social-wrap">
-                                <div class="team-social-btn">
-                                    <button type="button"><i class="far fa-share-alt"></i></button>
-                                </div>
-                                <div class="team-social">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-content">
-                            <h4><a href="#">Beverly Dyer</a></h4>
-                            <span>Tax Advisor</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3">
-                    <div class="team-item wow fadeInDown" data-wow-delay=".25s">
-                        <div class="team-img">
-                            <img alt="thumb" src="assets/img/team/04.jpg">
-                            <div class="team-social-wrap">
-                                <div class="team-social-btn">
-                                    <button type="button"><i class="far fa-share-alt"></i></button>
-                                </div>
-                                <div class="team-social">
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i class="fab fa-x-twitter"></i></a>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                    <a href="#"><i class="fab fa-youtube"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="team-content">
-                            <h4><a href="#">Anita Bentley</a></h4>
-                            <span>Tax Advisor</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- team-area end -->
 
 
     <!-- partner area -->
