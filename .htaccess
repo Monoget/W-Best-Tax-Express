@@ -52,10 +52,6 @@ RewriteRule ^client-reviews client-reviews.php [NC,L]
 
 RewriteRule ^make-a-payment make-a-payment.php [NC,L]
 
-RewriteRule ^tax-preparation-checklist tax-preparation-checklist.php [NC,L]
-
-RewriteRule ^refund-tracking refund-tracking.php [NC,L]
-
 RewriteRule ^pricing pricing.php [NC,L]
 
 RewriteRule ^contact contact.php [NC,L]

@@ -9,7 +9,7 @@
     <meta content="" name="keywords">
 
     <!-- title -->
-    <title>Contact Us - Best Tax Express</title>
+    <title>Pricing - Best Tax Express</title>
 
     <!-- favicon -->
     <link href="assets/img/logo/favicon.png" rel="icon" type="image/x-icon">
@@ -28,10 +28,10 @@
     <!-- breadcrumb -->
     <div class="site-breadcrumb" style="background: url(assets/img/breadcrumb/01.jpg)">
         <div class="container">
-            <h2 class="breadcrumb-title">Tax Services, Including Tax Preparation Services & More</h2>
+            <h2 class="breadcrumb-title">Pricing</h2>
             <ul class="breadcrumb-menu">
                 <li><a href="home">Home</a></li>
-                <li class="active">Tax Services</li>
+                <li class="active">Pricing</li>
             </ul>
         </div>
     </div>

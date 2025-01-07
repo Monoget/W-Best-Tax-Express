@@ -110,13 +110,8 @@
                                 <li><a class="dropdown-item <?php echo ($currentPage == 'client-reviews') ? 'active' : ''; ?>" href="client-reviews">Client Reviews</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle <?php echo (in_array($currentPage, ['make-a-payment', 'tax-preparation-checklist', 'refund-tracking'])) ? 'active' : ''; ?>" data-bs-toggle="dropdown" href="#">Client Center</a>
-                            <ul class="dropdown-menu fade-down">
-                                <li><a class="dropdown-item <?php echo ($currentPage == 'make-a-payment') ? 'active' : ''; ?>" href="make-a-payment">MAKE A PAYMENT</a></li>
-                                <li><a class="dropdown-item <?php echo ($currentPage == 'tax-preparation-checklist') ? 'active' : ''; ?>" href="tax-preparation-checklist">Tax Preparation Checklist</a></li>
-                                <li><a class="dropdown-item <?php echo ($currentPage == 'refund-tracking') ? 'active' : ''; ?>" href="refund-tracking">Refund Tracking</a></li>
-                            </ul>
+                        <li class="nav-item">
+                            <a class="nav-link <?php echo ($currentPage == 'make-a-payment') ? 'active' : ''; ?>" href="make-a-payment">Make a Payment</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link <?php echo ($currentPage == 'pricing') ? 'active' : ''; ?>" href="pricing">Pricing</a>

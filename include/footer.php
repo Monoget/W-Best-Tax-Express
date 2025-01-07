@@ -32,13 +32,13 @@
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">Tax Services</h4>
                             <ul class="footer-list">
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Tax Planning</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Tax Preparation</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>FBAR Reporting</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Sales & Use Taxes</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>BOI Report Filing</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>FEMA Assistance</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Refund Tracking</a></li>
+                                <li><a href="tax-services"><i class="far fa-arrow-right"></i>Tax Services</a></li>
+                                <li><a href="accounting-services"><i class="far fa-arrow-right"></i>Accounting Services</a></li>
+                                <li><a href="bookkeeping"><i class="far fa-arrow-right"></i>Bookkeeping</a></li>
+                                <li><a href="new-business-startup"><i class="far fa-arrow-right"></i>New Business </a></li>
+                                <li><a href="part-time-cfo"><i class="far fa-arrow-right"></i>Part Time </a></li>
+                                <li><a href="cash-flow-management"><i class="far fa-arrow-right"></i>Cash Flow</a></li>
+                                <li><a href="bank-loan-assistance"><i class="far fa-arrow-right"></i>Bank Loan </a></li>
                             </ul>
                         </div>
                     </div>
@@ -46,12 +46,12 @@
                         <div class="footer-widget-box list">
                             <h4 class="footer-widget-title">Industry Serv.</h4>
                             <ul class="footer-list">
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Individuals</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Franchise Businesses</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Hospitality Industry</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Real Estate</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>Healthcare</a></li>
-                                <li><a href="#"><i class="far fa-arrow-right"></i>501(c)(3) Nonprofits</a></li>
+                                <li><a href="individuals"><i class="far fa-arrow-right"></i>Individuals</a></li>
+                                <li><a href="franchise-businesses"><i class="far fa-arrow-right"></i>Franchise Businesses</a></li>
+                                <li><a href="digital-assets"><i class="far fa-arrow-right"></i>Digital Assets</a></li>
+                                <li><a href="real-estate"><i class="far fa-arrow-right"></i>Real Estate</a></li>
+                                <li><a href="healthcare"><i class="far fa-arrow-right"></i>Healthcare</a></li>
+                                <li><a href="501-c-3-nonprofits"><i class="far fa-arrow-right"></i>501(c)(3) Nonprofits</a></li>
                             </ul>
                         </div>
                     </div>
@@ -105,10 +105,11 @@
                 </div>
                 <div class="col-md-6 align-self-center">
                     <ul class="footer-social">
-                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="#"><i class="fab fa-x-twitter"></i></a></li>
-                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                        <li><a href="#"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=61570184069606"><i class="fab fa-facebook-f"></i></a></li>
+                        <li><a href="https://www.twitter.com/besttaxexpress"><i class="fab fa-x-twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com/besttaxexpress"><i class="fab fa-instagram"></i></a></li>
+                        <li><a href="https://www.youtube.com/@BestTaxExpressInc"><i class="fab fa-youtube"></i></a></li>
+                        <li><a href="https://www.tiktok.com/@besttaxexpress"><i class="fab fa-tiktok"></i></a></li>
                     </ul>
                 </div>
             </div>
