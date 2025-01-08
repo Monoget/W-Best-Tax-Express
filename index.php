@@ -128,10 +128,10 @@
                             </p>
                             <!-- Call-to-Actions -->
                             <div class="hero-btn wow fadeInUp" data-wow-delay="1s">
-                                <a class="theme-btn" href="#">
+                                <a class="theme-btn" href="about-us">
                                     Learn About Us <i class="fas fa-arrow-right"></i>
                                 </a>
-                                <a class="theme-btn theme-btn2" href="#">
+                                <a class="theme-btn theme-btn2" href="contact">
                                     Get In Touch <i class="fas fa-arrow-right"></i>
                                 </a>
                             </div>
@@ -674,7 +674,7 @@
                             <p>Looking for tailored tax solutions? Share your details with us, and our experts will get back to you with a personalized quote.</p>
                         </div>
                         <div class="quote-form">
-                            <form action="#" method="POST">
+                            <form action="insert" method="POST">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="input-group">
@@ -712,8 +712,9 @@
                                             <textarea class="form-control" name="message" placeholder="Your Message" rows="4" required></textarea>
                                         </div>
                                     </div>
+                                    <input type="hidden" value="home" name="page" required>
                                     <div class="col-lg-12">
-                                        <button class="theme-btn" type="submit">Submit Now<i class="fas fa-arrow-right"></i></button>
+                                        <button class="theme-btn" type="submit" name="submitQuote">Submit Now<i class="fas fa-arrow-right"></i></button>
                                     </div>
                                 </div>
                             </form>

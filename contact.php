@@ -150,7 +150,7 @@
                                     need assistance, or just want to say hello, feel
                                     free to reach out. </p>
                             </div>
-                            <form action="" id="contact-form"
+                            <form action="insert" id="contact-form"
                                   method="post">
                                 <div class="row">
                                     <div class="col-md-6">
@@ -178,7 +178,8 @@
                                     <textarea class="form-control" cols="30" name="message" placeholder="Write Your Message"
                                               rows="5"></textarea>
                                 </div>
-                                <button class="theme-btn" type="submit">Send
+                                <input type="hidden" value="contact" name="page" required>
+                                <button class="theme-btn" type="submit" name="sendContact">Send
                                     Message <i class="far fa-paper-plane"></i></button>
                                 <div class="col-md-12 mt-3">
                                     <div class="form-messege text-success"></div>
