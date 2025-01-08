@@ -32,11 +32,11 @@
                 <div class="header-top-right">
                     <div class="header-top-social">
                         <span>Follow Us: </span>
-                        <a href="https://www.facebook.com/profile.php?id=61570184069606"><i class="fab fa-facebook"></i></a>
-                        <a href="https://www.twitter.com/besttaxexpress"><i class="fab fa-x-twitter"></i></a>
-                        <a href="https://www.instagram.com/besttaxexpress"><i class="fab fa-instagram"></i></a>
-                        <a href="https://www.youtube.com/@BestTaxExpressInc"><i class="fab fa-youtube"></i></a>
-                        <a href="https://www.tiktok.com/@besttaxexpress"><i class="fab fa-tiktok"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=61570184069606"><i class="fab fa-facebook facebook"></i></a>
+                        <a href="https://www.twitter.com/besttaxexpress"><i class="fab fa-x-twitter twitter"></i></a>
+                        <a href="https://www.instagram.com/besttaxexpress"><i class="fab fa-instagram instagram"></i></a>
+                        <a href="https://www.youtube.com/@BestTaxExpressInc"><i class="fab fa-youtube youtube"></i></a>
+                        <a href="https://www.tiktok.com/@besttaxexpress"><i class="fab fa-tiktok tiktok"></i></a>
                     </div>
                 </div>
             </div>
@@ -143,8 +143,7 @@
             </div>
             <div class="sidebar-about">
                 <h4>About Us</h4>
-                <p>There are many variations of passages available sure there majority have suffered alteration in
-                    some form by inject humour or randomised words which don't look even slightly believable.</p>
+                <p>We provide comprehensive tax and financial services tailored to meet your needs, ensuring a hassle-free experience with guaranteed quality and accuracy.</p>
             </div>
             <div class="sidebar-contact">
                 <h4>Contact Info</h4>
@@ -169,11 +168,11 @@
             </div>
             <div class="sidebar-social">
                 <h4>Follow Us</h4>
-                <a href="https://www.facebook.com/profile.php?id=61570184069606"><i class="fab fa-facebook"></i></a>
-                <a href="https://www.twitter.com/besttaxexpress"><i class="fab fa-x-twitter"></i></a>
-                <a href="https://www.instagram.com/besttaxexpress"><i class="fab fa-instagram"></i></a>
-                <a href="https://www.youtube.com/@BestTaxExpressInc"><i class="fab fa-youtube"></i></a>
-                <a href="https://www.tiktok.com/@besttaxexpress"><i class="fab fa-tiktok"></i></a>
+                <a href="https://www.facebook.com/profile.php?id=61570184069606"><i class="fab fa-facebook facebook"></i></a>
+                <a href="https://www.twitter.com/besttaxexpress"><i class="fab fa-x-twitter twitter"></i></a>
+                <a href="https://www.instagram.com/besttaxexpress"><i class="fab fa-instagram instagram"></i></a>
+                <a href="https://www.youtube.com/@BestTaxExpressInc"><i class="fab fa-youtube youtube"></i></a>
+                <a href="https://www.tiktok.com/@besttaxexpress"><i class="fab fa-tiktok tiktok"></i></a>
             </div>
         </div>
     </div>
