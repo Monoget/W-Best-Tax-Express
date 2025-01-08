@@ -140,11 +140,11 @@
                         <div class="hero-social pa-1 mt-50 wow fadeInUp" data-wow-delay="1.25s">
                             <h6>Connect With Us</h6>
                             <div class="social">
-                                <a href="https://www.facebook.com/profile.php?id=61570184069606" target="_blank"><i class="fab fa-facebook"></i> Facebook</a>
-                                <a href="https://www.twitter.com/besttaxexpress" target="_blank"><i class="fab fa-x-twitter"></i> Twitter</a>
-                                <a href="https://www.instagram.com/besttaxexpress" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
-                                <a href="https://www.youtube.com/@BestTaxExpressInc" target="_blank"><i class="fab fa-youtube"></i> Youtube</a>
-                                <a href="https://www.tiktok.com/@besttaxexpress" target="_blank"><i class="fab fa-tiktok"></i> Tiktok</a>
+                                <a href="https://www.facebook.com/profile.php?id=61570184069606" target="_blank"><i class="fab fa-facebook facebook"></i> Facebook</a>
+                                <a href="https://www.twitter.com/besttaxexpress" target="_blank"><i class="fab fa-twitter twitter"></i> Twitter</a>
+                                <a href="https://www.instagram.com/besttaxexpress" target="_blank"><i class="fab fa-instagram instagram"></i> Instagram</a>
+                                <a href="https://www.youtube.com/@BestTaxExpressInc" target="_blank"><i class="fab fa-youtube youtube"></i> Youtube</a>
+                                <a href="https://www.tiktok.com/@besttaxexpress" target="_blank"><i class="fab fa-tiktok tiktok"></i> Tiktok</a>
                             </div>
                         </div>
                     </div>

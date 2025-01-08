@@ -105,11 +105,11 @@
                 </div>
                 <div class="col-md-6 align-self-center">
                     <ul class="footer-social">
-                        <li><a href="https://www.facebook.com/profile.php?id=61570184069606"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a href="https://www.twitter.com/besttaxexpress"><i class="fab fa-x-twitter"></i></a></li>
-                        <li><a href="https://www.instagram.com/besttaxexpress"><i class="fab fa-instagram"></i></a></li>
-                        <li><a href="https://www.youtube.com/@BestTaxExpressInc"><i class="fab fa-youtube"></i></a></li>
-                        <li><a href="https://www.tiktok.com/@besttaxexpress"><i class="fab fa-tiktok"></i></a></li>
+                        <li><a href="https://www.facebook.com/profile.php?id=61570184069606"><i class="fab fa-facebook-f facebook"></i></a></li>
+                        <li><a href="https://www.twitter.com/besttaxexpress"><i class="fab fa-twitter twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com/besttaxexpress"><i class="fab fa-instagram instagram"></i></a></li>
+                        <li><a href="https://www.youtube.com/@BestTaxExpressInc"><i class="fab fa-youtube youtube"></i></a></li>
+                        <li><a href="https://www.tiktok.com/@besttaxexpress"><i class="fab fa-tiktok tiktok"></i></a></li>
                     </ul>
                 </div>
             </div>

@@ -15,41 +15,41 @@ Table of contents
 12. Navbar css
 13. Multi level dropdown menu
 14. Search popup
-15. Sidebar popup css 
-16. Main section css 
-17. Hero css 
+15. Sidebar popup css
+16. Main section css
+17. Hero css
 18. Play btn
 19. Nice select css
-20. About css 
-21. Feature css 
-22. Service css 
+20. About css
+21. Feature css
+22. Service css
 23. Service single
-24. Case study css 
+24. Case study css
 25. Case study single
-26. Counter css 
-27. Pricing css 
-28. Video css 
-29. Choose css 
-30. Process css 
-31. Testimonial css 
-32. Quote css 
-33. Blog css 
+26. Counter css
+27. Pricing css
+28. Video css
+29. Choose css
+30. Process css
+31. Testimonial css
+32. Quote css
+33. Blog css
 34. Blog single css
 35. Widget sidebar css
-36. Partner css 
-37. Contact us css 
-38. Instagram css 
-39. Team css 
-40. Cta css 
-41. Gallery css 
-42. Faq css 
+36. Partner css
+37. Contact us css
+38. Instagram css
+39. Team css
+40. Cta css
+41. Gallery css
+42. Faq css
 43. Breadcrumb css
-44. Pagination css 
-45. Auth css 
-46. Coming soon css 
-47. Error css 
-48. Terms/privacy css 
-49. Footer css 
+44. Pagination css
+45. Auth css
+46. Coming soon css
+47. Error css
+48. Terms/privacy css
+49. Footer css
 50. Home 2
 51. Home 3
 52. Home 4
@@ -1504,7 +1504,7 @@ label {
 
 
 /*====================
-15. Sidebar popup css 
+15. Sidebar popup css
 ======================*/
 
 .sidebar-popup {
@@ -1645,7 +1645,7 @@ label {
 
 
 /*====================
-16. Main section css 
+16. Main section css
 ======================*/
 
 .main {
@@ -1655,7 +1655,7 @@ label {
 
 
 /*====================
-17. Hero css 
+17. Hero css
 ======================*/
 
 .hero-section {
@@ -1881,7 +1881,7 @@ label {
   right: 15%;
   bottom: -2px;
   width: 29.5%;
-} 
+}
 
 .hs-1 .hero-img-shape{
   position: absolute;
@@ -2046,6 +2046,33 @@ label {
   margin-right: 5px;
 }
 
+.hs-3 .hero-social .social a i.facebook{
+  color: #316FF6;
+  margin-right: 5px;
+}
+
+.hs-3 .hero-social .social a i.instagram{
+  color: #dd2a7b;
+  margin-right: 5px;
+}
+
+.hs-3 .hero-social .social a i.youtube{
+  color: #FF0000;
+  margin-right: 5px;
+}
+
+.hs-3 .hero-social .social a i.twitter{
+  color: #55ACEE;
+  margin-right: 5px;
+}
+
+.hs-3 .hero-social .social a i.tiktok{
+  color: #ff0050;
+  margin-right: 5px;
+}
+
+
+
 @media all and (max-width: 991px) {
   .hs-3 .hero-img-wrap{
     margin-top: 80px;
@@ -2153,7 +2180,7 @@ label {
 
 
 /* ===================
-20. About css 
+20. About css
 ====================== */
 
 .about-area {
@@ -2317,7 +2344,7 @@ label {
 
 
 /*====================
-21. Feature css 
+21. Feature css
 ======================*/
 
 .feature-area {
@@ -2395,7 +2422,7 @@ label {
 
 
 /*====================
-22. Service css 
+22. Service css
 ======================*/
 
 .service-area {
@@ -2546,7 +2573,7 @@ label {
 
 
 /* ========================
-24. Case study css 
+24. Case study css
 =========================== */
 
 .case-study{
@@ -2822,7 +2849,7 @@ label {
 
 
 /* ===================
-26. Counter css 
+26. Counter css
 ====================== */
 
 .counter-area {
@@ -2908,7 +2935,7 @@ label {
 
 
 /* ===================
-27. Pricing css 
+27. Pricing css
 ====================== */
 
 .pricing-area{
@@ -2929,7 +2956,7 @@ label {
 .pricing-item:hover{
   -webkit-transform: translateY(-10px);
   transform: translateY(-10px);
-} 
+}
 
 .pricing-shape img{
   position: absolute;
@@ -3006,7 +3033,7 @@ label {
 
 .pricing-feature li .not-include{
   color: #F76464;
-} 
+}
 
 .pricing-item .theme-btn{
   width: 100%;
@@ -3026,7 +3053,7 @@ label {
 
 
 /*====================
-28. Video css 
+28. Video css
 ======================*/
 
 .video-area{
@@ -3120,7 +3147,7 @@ label {
 
 
 /* ===================
-29. Choose css 
+29. Choose css
 ====================== */
 
 .choose-area{
@@ -3209,7 +3236,7 @@ label {
 
 
 /* ===================
-30. Process css 
+30. Process css
 ====================== */
 
 .process-area{
@@ -3312,7 +3339,7 @@ label {
 
 
 /*====================
-31. Testimonial css 
+31. Testimonial css
 ======================*/
 
 .testimonial-area {
@@ -3456,7 +3483,7 @@ label {
 
 
 /*====================
-32. Quote css 
+32. Quote css
 ======================*/
 
 .quote-area{
@@ -3537,7 +3564,7 @@ label {
 
 
 /*====================
-33. Blog css 
+33. Blog css
 ======================*/
 
 .blog-area{
@@ -3564,7 +3591,7 @@ label {
 
 .blog-item:hover .blog-item-img img{
   transform: scale(1.1);
-} 
+}
 
 .blog-date{
   position: absolute;
@@ -4145,7 +4172,7 @@ label {
 
 
 /*===================
-36. Partner css 
+36. Partner css
 =====================*/
 
 .partner-area{
@@ -4165,7 +4192,7 @@ label {
 
 
 /*===================
-37. Contact us css 
+37. Contact us css
 =====================*/
 
 .contact-wrapper {
@@ -4289,6 +4316,31 @@ label {
   background: var(--theme-color);
 }
 
+.contact-info-icon i.facebook {
+  color: #316FF6;
+  background: #ffffff;
+}
+
+.contact-info-icon i.instagram {
+  color: #dd2a7b;
+  background: #ffffff;
+}
+
+.contact-info-icon i.youtube {
+  color: #FF0000;
+  background: #ffffff;
+}
+
+.contact-info-icon i.twitter {
+  color: #55ACEE;
+  background: #ffffff;
+}
+
+.contact-info-icon i.tiktok {
+  color: #000000;
+  background: #ffffff;
+}
+
 .contact-info h5 {
   font-size: 20px;
   font-weight: 700;
@@ -4313,7 +4365,7 @@ label {
 
 
 /* ===================
-38. Instagram css 
+38. Instagram css
 ====================== */
 
 .instagram-area{
@@ -4374,7 +4426,7 @@ label {
 
 
 /* ===================
-39. Team css 
+39. Team css
 ====================== */
 
 .team-area{
@@ -4490,7 +4542,7 @@ label {
 
 
 /* ===================
-40. Cta css 
+40. Cta css
 ====================== */
 
 .cta-area{
@@ -4540,7 +4592,7 @@ label {
 
 
 /* ========================
-41. Gallery css 
+41. Gallery css
 =========================== */
 
 .gallery-item {
@@ -4615,7 +4667,7 @@ label {
 
 
 /*====================
-42. Faq css 
+42. Faq css
 ======================*/
 
 .faq-area .accordion-item {
@@ -4775,7 +4827,7 @@ label {
 
 
 /*====================
-44. Pagination css 
+44. Pagination css
 ======================*/
 
 .pagination {
@@ -4809,7 +4861,7 @@ label {
 
 
 /*====================
-45. Auth css 
+45. Auth css
 ======================*/
 
 .login-form {
@@ -4992,7 +5044,7 @@ label {
 
 
 /*====================
-46. Coming soon css 
+46. Coming soon css
 ======================*/
 
 .coming-soon {
@@ -5139,7 +5191,7 @@ label {
 
 
 /*====================
-47. Error css 
+47. Error css
 ======================*/
 
 .error-wrapper {
@@ -5180,7 +5232,7 @@ label {
 
 
 /*====================
-48. Terms/privacy css 
+48. Terms/privacy css
 ====================== */
 
 .terms-content:not(:last-child) {
@@ -5212,7 +5264,7 @@ label {
 
 
 /*====================
-49. Footer css 
+49. Footer css
 ======================*/
 
 .footer-area {
@@ -5319,6 +5371,26 @@ label {
   background: var(--color-white);
   color: var(--theme-color);
   transition: var(--transition);
+}
+
+.footer-social li a i.facebook {
+  color: #316FF6;
+}
+
+.footer-social li a i.instagram {
+  color: #dd2a7b;
+}
+
+.footer-social li a i.youtube {
+  color: #FF0000;
+}
+
+.footer-social li a i.twitter {
+  color: #55ACEE;
+}
+
+.footer-social li a i.tiktok {
+  color: #ff0050;
 }
 
 .footer-social li a i:hover {

@@ -47,7 +47,7 @@
                         <div class="contact-info">
                             <div class="contact-info-icon">
                                 <a href="https://www.facebook.com/profile.php?id=61570184069606" target="_blank">
-                                    <i class="fab fa-facebook-f fa-5x"></i>
+                                    <i class="fab fa-facebook-f fa-5x facebook"></i>
                                 </a>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                         <div class="contact-info">
                             <div class="contact-info-icon">
                                 <a href="https://www.twitter.com/besttaxexpress" target="_blank">
-                                    <i class="fab fa-x-twitter fa-5x"></i>
+                                    <i class="fab fa-twitter fa-5x twitter"></i>
                                 </a>
                             </div>
                         </div>
@@ -65,7 +65,7 @@
                         <div class="contact-info">
                             <div class="contact-info-icon">
                                 <a href="https://www.instagram.com/besttaxexpress" target="_blank">
-                                    <i class="fab fa-instagram fa-5x"></i>
+                                    <i class="fab fa-instagram fa-5x instagram"></i>
                                 </a>
                             </div>
                         </div>
@@ -74,7 +74,7 @@
                         <div class="contact-info">
                             <div class="contact-info-icon">
                                 <a href="https://www.youtube.com/@BestTaxExpressInc" target="_blank">
-                                    <i class="fab fa-youtube fa-5x"></i>
+                                    <i class="fab fa-youtube fa-5x youtube"></i>
                                 </a>
                             </div>
                         </div>
@@ -83,7 +83,7 @@
                         <div class="contact-info">
                             <div class="contact-info-icon">
                                 <a href="https://www.tiktok.com/@besttaxexpress" target="_blank">
-                                    <i class="fab fa-tiktok fa-5x"></i>
+                                    <i class="fab fa-tiktok fa-5x tiktok"></i>
                                 </a>
                             </div>
                         </div>
